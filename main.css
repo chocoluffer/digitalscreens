@@ -1,0 +1,27 @@
+#trait {
+	height: 32px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+#foodItem {
+	font-family: "Helvetica";
+	font-weight: bold;
+    padding-top: 5px;
+    padding-bottom: 10px;
+
+}
+	
+#menuLogo {
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
+/* 	height: 200px; */
+	width: 1320px;
+}
+	
+#content {
+	width: 1320px;
+    padding-left: 25%;
+    padding-top: 5%;
+}

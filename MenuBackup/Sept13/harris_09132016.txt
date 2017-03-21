@@ -1,0 +1,900 @@
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Gold Delicious Apples|39|Dinner|Harris Soup, Salad, & Fruit|39|Vegan|39| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Gold Delicious Apples|39|Dinner|Harris Soup, Salad, & Fruit|39|Conventional|39| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Gold Delicious Apples|39|Breakfast|Harris Soup, Salad, & Fruit|39|Vegan|39| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Gold Delicious Apples|39|Breakfast|Harris Soup, Salad, & Fruit|39|Conventional|39| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Plain Bagel|167|Dinner|Harris Soup, Salad, & Fruit|167|nitrite|167| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Plain Bagel|167|Dinner|Harris Soup, Salad, & Fruit|167|Wheat|167| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Plain Bagel|167|Dinner|Harris Soup, Salad, & Fruit|167|Gluten|167| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Plain Bagel|167|Dinner|Harris Soup, Salad, & Fruit|167|Conventional|167| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Plain Bagel|167|Breakfast|Harris Soup, Salad, & Fruit|167|nitrite|167| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Plain Bagel|167|Breakfast|Harris Soup, Salad, & Fruit|167|Wheat|167| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Plain Bagel|167|Breakfast|Harris Soup, Salad, & Fruit|167|Gluten|167| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Plain Bagel|167|Breakfast|Harris Soup, Salad, & Fruit|167|Conventional|167| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|White Bun|370|Dinner|Harris Campus Grill|370|sulfite|370| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|White Bun|370|Dinner|Harris Campus Grill|370|Soy|370| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|White Bun|370|Dinner|Harris Campus Grill|370|Wheat|370| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|White Bun|370|Dinner|Harris Campus Grill|370|Gluten|370| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|White Bun|370|Dinner|Harris Campus Grill|370|Conventional|370| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Peanut Butter Indv Cups|400|Dinner|Harris Soup, Salad, & Fruit|400|Animal by-product|400| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Peanut Butter Indv Cups|400|Dinner|Harris Soup, Salad, & Fruit|400|Soy|400| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Peanut Butter Indv Cups|400|Dinner|Harris Soup, Salad, & Fruit|400|Peanuts|400| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Peanut Butter Indv Cups|400|Dinner|Harris Soup, Salad, & Fruit|400|Conventional|400| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Peanut Butter Indv Cups|400|Breakfast|Harris Soup, Salad, & Fruit|400|Animal by-product|400| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Peanut Butter Indv Cups|400|Breakfast|Harris Soup, Salad, & Fruit|400|Soy|400| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Peanut Butter Indv Cups|400|Breakfast|Harris Soup, Salad, & Fruit|400|Peanuts|400| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Peanut Butter Indv Cups|400|Breakfast|Harris Soup, Salad, & Fruit|400|Conventional|400| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Honey Wheat English Muffin|432|Dinner|Harris Soup, Salad, & Fruit|432|nitrite|432| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Honey Wheat English Muffin|432|Dinner|Harris Soup, Salad, & Fruit|432|Animal by-product|432| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Honey Wheat English Muffin|432|Dinner|Harris Soup, Salad, & Fruit|432|Conventional|432| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Honey Wheat English Muffin|432|Dinner|Harris Soup, Salad, & Fruit|432|Gluten|432| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Honey Wheat English Muffin|432|Dinner|Harris Soup, Salad, & Fruit|432|Milk|432| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Honey Wheat English Muffin|432|Dinner|Harris Soup, Salad, & Fruit|432|Soy|432| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Honey Wheat English Muffin|432|Dinner|Harris Soup, Salad, & Fruit|432|Wheat|432| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Honey Wheat English Muffin|432|Breakfast|Harris Soup, Salad, & Fruit|432|nitrite|432| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Honey Wheat English Muffin|432|Breakfast|Harris Soup, Salad, & Fruit|432|Animal by-product|432| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Honey Wheat English Muffin|432|Breakfast|Harris Soup, Salad, & Fruit|432|Conventional|432| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Honey Wheat English Muffin|432|Breakfast|Harris Soup, Salad, & Fruit|432|Gluten|432| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Honey Wheat English Muffin|432|Breakfast|Harris Soup, Salad, & Fruit|432|Milk|432| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Honey Wheat English Muffin|432|Breakfast|Harris Soup, Salad, & Fruit|432|Soy|432| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Honey Wheat English Muffin|432|Breakfast|Harris Soup, Salad, & Fruit|432|Wheat|432| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Scrambled Eggs|508|Breakfast|Harris Campus Grill|508|Eggs|508| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Scrambled Eggs|508|Breakfast|Harris Campus Grill|508|Soy|508| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Scrambled Eggs|508|Breakfast|Harris Campus Grill|508|Animal by-product|508| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Scrambled Eggs|508|Breakfast|Harris Campus Grill|508|Conventional|508| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Scrambled Eggs|508|Breakfast|Harris Campus Grill|508|Citric Acid|508| |
+Sep 13 2016 12:00:00:000AM|12 - Proteins|Lowfat Cottage Cheese |651|Dinner|Harris Soup, Salad, & Fruit|651|Citric Acid|651| |
+Sep 13 2016 12:00:00:000AM|12 - Proteins|Lowfat Cottage Cheese |651|Dinner|Harris Soup, Salad, & Fruit|651|Soy|651| |
+Sep 13 2016 12:00:00:000AM|12 - Proteins|Lowfat Cottage Cheese |651|Dinner|Harris Soup, Salad, & Fruit|651|Milk|651| |
+Sep 13 2016 12:00:00:000AM|12 - Proteins|Lowfat Cottage Cheese |651|Dinner|Harris Soup, Salad, & Fruit|651|Conventional|651| |
+Sep 13 2016 12:00:00:000AM|12 - Proteins|Lowfat Cottage Cheese |651|Dinner|Harris Soup, Salad, & Fruit|651|Animal by-product|651| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Lowfat Cottage Cheese |651|Breakfast|Harris Soup, Salad, & Fruit|651|Citric Acid|651| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Lowfat Cottage Cheese |651|Breakfast|Harris Soup, Salad, & Fruit|651|Soy|651| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Lowfat Cottage Cheese |651|Breakfast|Harris Soup, Salad, & Fruit|651|Milk|651| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Lowfat Cottage Cheese |651|Breakfast|Harris Soup, Salad, & Fruit|651|Conventional|651| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Lowfat Cottage Cheese |651|Breakfast|Harris Soup, Salad, & Fruit|651|Animal by-product|651| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Sliced Black Olives|689|Dinner|Harris Soup, Salad, & Fruit|689|Kosher|689| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Sliced Black Olives|689|Dinner|Harris Soup, Salad, & Fruit|689|Conventional|689| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Red Delicious Apples|711|Dinner|Harris Soup, Salad, & Fruit|711|Vegan|711| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Red Delicious Apples|711|Dinner|Harris Soup, Salad, & Fruit|711|Conventional|711| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Red Delicious Apples|711|Breakfast|Harris Soup, Salad, & Fruit|711|Vegan|711| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Red Delicious Apples|711|Breakfast|Harris Soup, Salad, & Fruit|711|Conventional|711| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Pear|716|Dinner|Harris Soup, Salad, & Fruit|716|Vegan|716| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Pear|716|Dinner|Harris Soup, Salad, & Fruit|716|Conventional|716| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Pear|716|Breakfast|Harris Soup, Salad, & Fruit|716|Vegan|716| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Pear|716|Breakfast|Harris Soup, Salad, & Fruit|716|Conventional|716| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|Buttermilk Ranch Dressing|780|Dinner|Harris Soup, Salad, & Fruit|780|MSG|780| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|Buttermilk Ranch Dressing|780|Dinner|Harris Soup, Salad, & Fruit|780|Eggs|780| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|Buttermilk Ranch Dressing|780|Dinner|Harris Soup, Salad, & Fruit|780|Milk|780| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|Buttermilk Ranch Dressing|780|Dinner|Harris Soup, Salad, & Fruit|780|Animal by-product|780| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|Buttermilk Ranch Dressing|780|Dinner|Harris Soup, Salad, & Fruit|780|Soy|780| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|Buttermilk Ranch Dressing|780|Dinner|Harris Soup, Salad, & Fruit|780|Conventional|780| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Orange|803|Dinner|Harris Soup, Salad, & Fruit|803|Vegan|803| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Orange|803|Dinner|Harris Soup, Salad, & Fruit|803|Conventional|803| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Orange|803|Breakfast|Harris Soup, Salad, & Fruit|803|Vegan|803| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Orange|803|Breakfast|Harris Soup, Salad, & Fruit|803|Conventional|803| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Watermelon|806|Dinner|Harris Soup, Salad, & Fruit|806|Vegan|806| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Watermelon|806|Dinner|Harris Soup, Salad, & Fruit|806|Conventional|806| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Watermelon|806|Breakfast|Harris Soup, Salad, & Fruit|806|Vegan|806| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Watermelon|806|Breakfast|Harris Soup, Salad, & Fruit|806|Conventional|806| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Peas|819|Dinner|Harris Soup, Salad, & Fruit|819|Vegan|819| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Peas|819|Dinner|Harris Soup, Salad, & Fruit|819|Conventional|819| |
+Sep 13 2016 12:00:00:000AM|48 - Yogurt Bar|Red Raspberries|842|Breakfast|Harris Soup, Salad, & Fruit|842|Conventional|842| |
+Sep 13 2016 12:00:00:000AM|48 - Yogurt Bar|Blackberries|869|Breakfast|Harris Soup, Salad, & Fruit|869|Conventional|869| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Garbanzo Beans|875|Dinner|Harris Soup, Salad, & Fruit|875|Vegan|875| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Garbanzo Beans|875|Dinner|Harris Soup, Salad, & Fruit|875|Conventional|875| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Pineapple Chunks|914|Dinner|Harris Soup, Salad, & Fruit|914|Vegan|914| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Pineapple Chunks|914|Dinner|Harris Soup, Salad, & Fruit|914|Citric Acid|914| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Pineapple Chunks|914|Dinner|Harris Soup, Salad, & Fruit|914|Conventional|914| |
+Sep 13 2016 12:00:00:000AM|48 - Yogurt Bar|Pineapple Chunks|914|Breakfast|Harris Soup, Salad, & Fruit|914|Vegan|914| |
+Sep 13 2016 12:00:00:000AM|48 - Yogurt Bar|Pineapple Chunks|914|Breakfast|Harris Soup, Salad, & Fruit|914|Citric Acid|914| |
+Sep 13 2016 12:00:00:000AM|48 - Yogurt Bar|Pineapple Chunks|914|Breakfast|Harris Soup, Salad, & Fruit|914|Conventional|914| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Pineapple Chunks|914|Breakfast|Harris Soup, Salad, & Fruit|914|Vegan|914| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Pineapple Chunks|914|Breakfast|Harris Soup, Salad, & Fruit|914|Citric Acid|914| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Pineapple Chunks|914|Breakfast|Harris Soup, Salad, & Fruit|914|Conventional|914| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Bamboo Shoots           |916|Dinner|Harris Spice of Life|916|Vegan|916| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Bamboo Shoots           |916|Dinner|Harris Spice of Life|916|Conventional|916| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Applesauce|923|Dinner|Harris Soup, Salad, & Fruit|923|Vegan|923| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Applesauce|923|Dinner|Harris Soup, Salad, & Fruit|923|Conventional|923| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Applesauce|923|Breakfast|Harris Soup, Salad, & Fruit|923|Vegan|923| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Applesauce|923|Breakfast|Harris Soup, Salad, & Fruit|923|Conventional|923| |
+Sep 13 2016 12:00:00:000AM|48 - Yogurt Bar|Mandarin Oranges|927|Breakfast|Harris Soup, Salad, & Fruit|927|Vegan|927| |
+Sep 13 2016 12:00:00:000AM|48 - Yogurt Bar|Mandarin Oranges|927|Breakfast|Harris Soup, Salad, & Fruit|927|Conventional|927| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Mandarin Oranges|927|Breakfast|Harris Soup, Salad, & Fruit|927|Vegan|927| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Mandarin Oranges|927|Breakfast|Harris Soup, Salad, & Fruit|927|Conventional|927| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|Creamy French Dressing|1034|Dinner|Harris Soup, Salad, & Fruit|1034|Milk|1034| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|Creamy French Dressing|1034|Dinner|Harris Soup, Salad, & Fruit|1034|Conventional|1034| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|Creamy French Dressing|1034|Dinner|Harris Soup, Salad, & Fruit|1034|Soy|1034| |
+Sep 13 2016 12:00:00:000AM|60 - Toppings|Sweet Pickle Slices|1099|Dinner|Harris Campus Grill|1099|Vegan|1099| |
+Sep 13 2016 12:00:00:000AM|60 - Toppings|Sweet Pickle Slices|1099|Dinner|Harris Campus Grill|1099|Conventional|1099| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|Fat Free Catalina French Dressing|1147|Dinner|Harris Soup, Salad, & Fruit|1147|Soy|1147| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|Fat Free Catalina French Dressing|1147|Dinner|Harris Soup, Salad, & Fruit|1147|Conventional|1147| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Whole Water Chestnut|1167|Dinner|Harris Spice of Life|1167|Citric Acid|1167| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Whole Water Chestnut|1167|Dinner|Harris Spice of Life|1167|Conventional|1167| |
+Sep 13 2016 12:00:00:000AM|60 - Toppings|Cinnamon|1240|Dinner|Harris Soup, Salad, & Fruit|1240|Kosher|1240| |
+Sep 13 2016 12:00:00:000AM|60 - Toppings|Cinnamon|1240|Dinner|Harris Soup, Salad, & Fruit|1240|Conventional|1240| |
+Sep 13 2016 12:00:00:000AM|60 - Toppings|Cinnamon|1240|Breakfast|Harris Soup, Salad, & Fruit|1240|Kosher|1240| |
+Sep 13 2016 12:00:00:000AM|60 - Toppings|Cinnamon|1240|Breakfast|Harris Soup, Salad, & Fruit|1240|Conventional|1240| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Honey |1286|Dinner|Harris Soup, Salad, & Fruit|1286|Animal by-product|1286| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Honey |1286|Dinner|Harris Soup, Salad, & Fruit|1286|Conventional|1286| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Honey |1286|Breakfast|Harris Soup, Salad, & Fruit|1286|Animal by-product|1286| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Honey |1286|Breakfast|Harris Soup, Salad, & Fruit|1286|Conventional|1286| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Homestyle Croutons|1293|Dinner|Harris Soup, Salad, & Fruit|1293|nitrite|1293| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Homestyle Croutons|1293|Dinner|Harris Soup, Salad, & Fruit|1293|sulfite|1293| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Homestyle Croutons|1293|Dinner|Harris Soup, Salad, & Fruit|1293|Animal by-product|1293| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Homestyle Croutons|1293|Dinner|Harris Soup, Salad, & Fruit|1293|Conventional|1293| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Homestyle Croutons|1293|Dinner|Harris Soup, Salad, & Fruit|1293|Milk|1293| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Homestyle Croutons|1293|Dinner|Harris Soup, Salad, & Fruit|1293|Soy|1293| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Homestyle Croutons|1293|Dinner|Harris Soup, Salad, & Fruit|1293|Gluten|1293| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Homestyle Croutons|1293|Dinner|Harris Soup, Salad, & Fruit|1293|Wheat|1293| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|Teriyaki  Sauce     |1296|Dinner|Harris Spice of Life|1296|sulfite|1296| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|Teriyaki  Sauce     |1296|Dinner|Harris Spice of Life|1296|Soy|1296| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|Teriyaki  Sauce     |1296|Dinner|Harris Spice of Life|1296|Wheat|1296| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|Teriyaki  Sauce     |1296|Dinner|Harris Spice of Life|1296|Gluten|1296| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|Teriyaki  Sauce     |1296|Dinner|Harris Spice of Life|1296|Conventional|1296| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Assorted Smuckers Jelly Packets|1324|Dinner|Harris Soup, Salad, & Fruit|1324|Citric Acid|1324| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Assorted Smuckers Jelly Packets|1324|Dinner|Harris Soup, Salad, & Fruit|1324|Conventional|1324| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Assorted Smuckers Jelly Packets|1324|Breakfast|Harris Soup, Salad, & Fruit|1324|Citric Acid|1324| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Assorted Smuckers Jelly Packets|1324|Breakfast|Harris Soup, Salad, & Fruit|1324|Conventional|1324| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Assorted Smuckers Jelly Packets|1324|Breakfast|Harris Soup, Salad, & Fruit|1324|Citric Acid|1324| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Assorted Smuckers Jelly Packets|1324|Breakfast|Harris Soup, Salad, & Fruit|1324|Conventional|1324| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|Honey Dijon Dressing|1409|Dinner|Harris Soup, Salad, & Fruit|1409|Citric Acid|1409| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|Honey Dijon Dressing|1409|Dinner|Harris Soup, Salad, & Fruit|1409|Conventional|1409| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|Honey Dijon Dressing|1409|Dinner|Harris Soup, Salad, & Fruit|1409|Soy|1409| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Baby Corn|1481|Dinner|Harris Spice of Life|1481|Vegan|1481| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Baby Corn|1481|Dinner|Harris Spice of Life|1481|Citric Acid|1481| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Baby Corn|1481|Dinner|Harris Spice of Life|1481|Conventional|1481| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|Fat Free Italian Dressing|1041|Dinner|Harris Soup, Salad, & Fruit|1041|sulfite|1041| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|Fat Free Italian Dressing|1041|Dinner|Harris Soup, Salad, & Fruit|1041|Conventional|1041| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Light Mayonnaise|1043|Dinner|Harris Soup, Salad, & Fruit|1043|Animal by-product|1043| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Light Mayonnaise|1043|Dinner|Harris Soup, Salad, & Fruit|1043|Conventional|1043| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Light Mayonnaise|1043|Dinner|Harris Soup, Salad, & Fruit|1043|Eggs|1043| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Light Mayonnaise|1043|Dinner|Harris Soup, Salad, & Fruit|1043|Soy|1043| |
+Sep 13 2016 12:00:00:000AM|60 - Toppings|Brown Sugar|1614|Dinner|Harris Soup, Salad, & Fruit|1614|Conventional|1614| |
+Sep 13 2016 12:00:00:000AM|60 - Toppings|Brown Sugar|1614|Breakfast|Harris Soup, Salad, & Fruit|1614|Conventional|1614| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Grape Tomatoes|1792|Dinner|Harris Soup, Salad, & Fruit|1792|Vegan|1792| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Grape Tomatoes|1792|Dinner|Harris Soup, Salad, & Fruit|1792|Conventional|1792| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Mustard Plastic Pump Jar|1808|Dinner|Harris Soup, Salad, & Fruit|1808|Conventional|1808| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Blueberry Bagel|1871|Dinner|Harris Soup, Salad, & Fruit|1871|Tree Nuts|1871| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Blueberry Bagel|1871|Dinner|Harris Soup, Salad, & Fruit|1871|Eggs|1871| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Blueberry Bagel|1871|Dinner|Harris Soup, Salad, & Fruit|1871|Soy|1871| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Blueberry Bagel|1871|Dinner|Harris Soup, Salad, & Fruit|1871|Wheat|1871| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Blueberry Bagel|1871|Dinner|Harris Soup, Salad, & Fruit|1871|Gluten|1871| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Blueberry Bagel|1871|Dinner|Harris Soup, Salad, & Fruit|1871|Conventional|1871| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Blueberry Bagel|1871|Breakfast|Harris Soup, Salad, & Fruit|1871|Tree Nuts|1871| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Blueberry Bagel|1871|Breakfast|Harris Soup, Salad, & Fruit|1871|Eggs|1871| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Blueberry Bagel|1871|Breakfast|Harris Soup, Salad, & Fruit|1871|Soy|1871| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Blueberry Bagel|1871|Breakfast|Harris Soup, Salad, & Fruit|1871|Wheat|1871| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Blueberry Bagel|1871|Breakfast|Harris Soup, Salad, & Fruit|1871|Gluten|1871| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Blueberry Bagel|1871|Breakfast|Harris Soup, Salad, & Fruit|1871|Conventional|1871| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Rice Noodles|1934|Dinner|Harris Soup, Salad, & Fruit|1934|Vegan|1934| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Rice Noodles|1934|Dinner|Harris Soup, Salad, & Fruit|1934|nitrite|1934| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Rice Noodles|1934|Dinner|Harris Soup, Salad, & Fruit|1934|Conventional|1934| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Rice Noodles|1934|Dinner|Harris Soup, Salad, & Fruit|1934|Gluten|1934| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Rice Noodles|1934|Dinner|Harris Soup, Salad, & Fruit|1934|Soy|1934| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Rice Noodles|1934|Dinner|Harris Soup, Salad, & Fruit|1934|Wheat|1934| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Shredded Cheddar Cheese|2097|Dinner|Harris Great Tastes|2097|Milk|2097| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Shredded Cheddar Cheese|2097|Dinner|Harris Great Tastes|2097|Conventional|2097| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Shredded Cheddar Cheese|2097|Dinner|Harris Great Tastes|2097|Animal by-product|2097| |
+Sep 13 2016 12:00:00:000AM|12 - Proteins|Shredded Cheddar Cheese|2097|Dinner|Harris Soup, Salad, & Fruit|2097|Milk|2097| |
+Sep 13 2016 12:00:00:000AM|12 - Proteins|Shredded Cheddar Cheese|2097|Dinner|Harris Soup, Salad, & Fruit|2097|Conventional|2097| |
+Sep 13 2016 12:00:00:000AM|12 - Proteins|Shredded Cheddar Cheese|2097|Dinner|Harris Soup, Salad, & Fruit|2097|Animal by-product|2097| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Shredded Cheddar Cheese|2097|Breakfast|Harris Soup, Salad, & Fruit|2097|Milk|2097| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Shredded Cheddar Cheese|2097|Breakfast|Harris Soup, Salad, & Fruit|2097|Conventional|2097| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Shredded Cheddar Cheese|2097|Breakfast|Harris Soup, Salad, & Fruit|2097|Animal by-product|2097| |
+Sep 13 2016 12:00:00:000AM|60 - Toppings|Shredded Cheddar Cheese|2097|Breakfast|Harris Campus Grill|2097|Milk|2097| |
+Sep 13 2016 12:00:00:000AM|60 - Toppings|Shredded Cheddar Cheese|2097|Breakfast|Harris Campus Grill|2097|Conventional|2097| |
+Sep 13 2016 12:00:00:000AM|60 - Toppings|Shredded Cheddar Cheese|2097|Breakfast|Harris Campus Grill|2097|Animal by-product|2097| |
+Sep 13 2016 12:00:00:000AM|12 - Proteins|American Cheese|2108|Dinner|Harris Soup, Salad, & Fruit|2108|Citric Acid|2108| |
+Sep 13 2016 12:00:00:000AM|12 - Proteins|American Cheese|2108|Dinner|Harris Soup, Salad, & Fruit|2108|Soy|2108| |
+Sep 13 2016 12:00:00:000AM|12 - Proteins|American Cheese|2108|Dinner|Harris Soup, Salad, & Fruit|2108|Milk|2108| |
+Sep 13 2016 12:00:00:000AM|12 - Proteins|American Cheese|2108|Dinner|Harris Soup, Salad, & Fruit|2108|Conventional|2108| |
+Sep 13 2016 12:00:00:000AM|12 - Proteins|American Cheese|2108|Dinner|Harris Soup, Salad, & Fruit|2108|Animal by-product|2108| |
+Sep 13 2016 12:00:00:000AM|60 - Toppings|American Cheese|2108|Dinner|Harris Campus Grill|2108|Citric Acid|2108| |
+Sep 13 2016 12:00:00:000AM|60 - Toppings|American Cheese|2108|Dinner|Harris Campus Grill|2108|Soy|2108| |
+Sep 13 2016 12:00:00:000AM|60 - Toppings|American Cheese|2108|Dinner|Harris Campus Grill|2108|Milk|2108| |
+Sep 13 2016 12:00:00:000AM|60 - Toppings|American Cheese|2108|Dinner|Harris Campus Grill|2108|Conventional|2108| |
+Sep 13 2016 12:00:00:000AM|60 - Toppings|American Cheese|2108|Dinner|Harris Campus Grill|2108|Animal by-product|2108| |
+Sep 13 2016 12:00:00:000AM|60 - Toppings|American Cheese|2108|Breakfast|Harris Campus Grill|2108|Citric Acid|2108| |
+Sep 13 2016 12:00:00:000AM|60 - Toppings|American Cheese|2108|Breakfast|Harris Campus Grill|2108|Soy|2108| |
+Sep 13 2016 12:00:00:000AM|60 - Toppings|American Cheese|2108|Breakfast|Harris Campus Grill|2108|Milk|2108| |
+Sep 13 2016 12:00:00:000AM|60 - Toppings|American Cheese|2108|Breakfast|Harris Campus Grill|2108|Conventional|2108| |
+Sep 13 2016 12:00:00:000AM|60 - Toppings|American Cheese|2108|Breakfast|Harris Campus Grill|2108|Animal by-product|2108| |
+Sep 13 2016 12:00:00:000AM|02 - Soup                     |Individual Saltine Crackers|2135|Dinner|Harris Soup, Salad, & Fruit|2135|Soy|2135| |
+Sep 13 2016 12:00:00:000AM|02 - Soup                     |Individual Saltine Crackers|2135|Dinner|Harris Soup, Salad, & Fruit|2135|nitrite|2135| |
+Sep 13 2016 12:00:00:000AM|02 - Soup                     |Individual Saltine Crackers|2135|Dinner|Harris Soup, Salad, & Fruit|2135|Wheat|2135| |
+Sep 13 2016 12:00:00:000AM|02 - Soup                     |Individual Saltine Crackers|2135|Dinner|Harris Soup, Salad, & Fruit|2135|Gluten|2135| |
+Sep 13 2016 12:00:00:000AM|02 - Soup                     |Individual Saltine Crackers|2135|Dinner|Harris Soup, Salad, & Fruit|2135|Conventional|2135| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Bananas|2163|Dinner|Harris Soup, Salad, & Fruit|2163|Vegan|2163| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Bananas|2163|Dinner|Harris Soup, Salad, & Fruit|2163|Conventional|2163| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Bananas|2163|Breakfast|Harris Soup, Salad, & Fruit|2163|Vegan|2163| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Bananas|2163|Breakfast|Harris Soup, Salad, & Fruit|2163|Conventional|2163| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Green Grapes|2171|Dinner|Harris Soup, Salad, & Fruit|2171|Vegan|2171| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Green Grapes|2171|Dinner|Harris Soup, Salad, & Fruit|2171|Conventional|2171| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Green Grapes|2171|Breakfast|Harris Soup, Salad, & Fruit|2171|Vegan|2171| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Green Grapes|2171|Breakfast|Harris Soup, Salad, & Fruit|2171|Conventional|2171| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Red Grapes |2172|Dinner|Harris Soup, Salad, & Fruit|2172|Vegan|2172| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Red Grapes |2172|Dinner|Harris Soup, Salad, & Fruit|2172|Conventional|2172| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Red Grapes |2172|Breakfast|Harris Soup, Salad, & Fruit|2172|Vegan|2172| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Red Grapes |2172|Breakfast|Harris Soup, Salad, & Fruit|2172|Conventional|2172| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Multi-Grain Dinner Roll|2197|Dinner|Harris Traditions|2197|Wheat|2197| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Multi-Grain Dinner Roll|2197|Dinner|Harris Traditions|2197|Soy|2197| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Multi-Grain Dinner Roll|2197|Dinner|Harris Traditions|2197|nitrite|2197| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Multi-Grain Dinner Roll|2197|Dinner|Harris Traditions|2197|Gluten|2197| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Multi-Grain Dinner Roll|2197|Dinner|Harris Traditions|2197|sulfite|2197| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Multi-Grain Dinner Roll|2197|Dinner|Harris Traditions|2197|Conventional|2197| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|Creamy Caesar Dressing|2326|Dinner|Harris Soup, Salad, & Fruit|2326|Fish|2326| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|Creamy Caesar Dressing|2326|Dinner|Harris Soup, Salad, & Fruit|2326|Conventional|2326| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|Creamy Caesar Dressing|2326|Dinner|Harris Soup, Salad, & Fruit|2326|Animal by-product|2326| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|Creamy Caesar Dressing|2326|Dinner|Harris Soup, Salad, & Fruit|2326|Milk|2326| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|Creamy Caesar Dressing|2326|Dinner|Harris Soup, Salad, & Fruit|2326|Soy|2326| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|Fat Free Raspberry Vinaigrette Dressing |1977|Dinner|Harris Soup, Salad, & Fruit|1977|sulfite|1977| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|Fat Free Raspberry Vinaigrette Dressing |1977|Dinner|Harris Soup, Salad, & Fruit|1977|Citric Acid|1977| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|Fat Free Raspberry Vinaigrette Dressing |1977|Dinner|Harris Soup, Salad, & Fruit|1977|Conventional|1977| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Cornmeal Kaiser Buns|2486|Dinner|Harris Campus Grill|2486|sulfite|2486| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Cornmeal Kaiser Buns|2486|Dinner|Harris Campus Grill|2486|Soy|2486| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Cornmeal Kaiser Buns|2486|Dinner|Harris Campus Grill|2486|Wheat|2486| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Cornmeal Kaiser Buns|2486|Dinner|Harris Campus Grill|2486|Gluten|2486| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Cornmeal Kaiser Buns|2486|Dinner|Harris Campus Grill|2486|Conventional|2486| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Sliced Pears|2496|Dinner|Harris Soup, Salad, & Fruit|2496|Vegan|2496| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Sliced Pears|2496|Dinner|Harris Soup, Salad, & Fruit|2496|Conventional|2496| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Sliced Pears|2496|Breakfast|Harris Soup, Salad, & Fruit|2496|Vegan|2496| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Sliced Pears|2496|Breakfast|Harris Soup, Salad, & Fruit|2496|Conventional|2496| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Margarine  |2514|Dinner|Harris Soup, Salad, & Fruit|2514|Animal by-product|2514| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Margarine  |2514|Dinner|Harris Soup, Salad, & Fruit|2514|Conventional|2514| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Margarine  |2514|Dinner|Harris Soup, Salad, & Fruit|2514|Milk|2514| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Margarine  |2514|Dinner|Harris Soup, Salad, & Fruit|2514|Soy|2514| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Margarine  |2514|Breakfast|Harris Soup, Salad, & Fruit|2514|Animal by-product|2514| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Margarine  |2514|Breakfast|Harris Soup, Salad, & Fruit|2514|Conventional|2514| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Margarine  |2514|Breakfast|Harris Soup, Salad, & Fruit|2514|Milk|2514| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Margarine  |2514|Breakfast|Harris Soup, Salad, & Fruit|2514|Soy|2514| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Plain English Muffin|2628|Dinner|Harris Soup, Salad, & Fruit|2628|Animal by-product|2628| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Plain English Muffin|2628|Dinner|Harris Soup, Salad, & Fruit|2628|Milk|2628| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Plain English Muffin|2628|Dinner|Harris Soup, Salad, & Fruit|2628|Soy|2628| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Plain English Muffin|2628|Dinner|Harris Soup, Salad, & Fruit|2628|nitrite|2628| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Plain English Muffin|2628|Dinner|Harris Soup, Salad, & Fruit|2628|Wheat|2628| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Plain English Muffin|2628|Dinner|Harris Soup, Salad, & Fruit|2628|Gluten|2628| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Plain English Muffin|2628|Dinner|Harris Soup, Salad, & Fruit|2628|Conventional|2628| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Plain English Muffin|2628|Breakfast|Harris Soup, Salad, & Fruit|2628|Animal by-product|2628| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Plain English Muffin|2628|Breakfast|Harris Soup, Salad, & Fruit|2628|Milk|2628| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Plain English Muffin|2628|Breakfast|Harris Soup, Salad, & Fruit|2628|Soy|2628| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Plain English Muffin|2628|Breakfast|Harris Soup, Salad, & Fruit|2628|nitrite|2628| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Plain English Muffin|2628|Breakfast|Harris Soup, Salad, & Fruit|2628|Wheat|2628| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Plain English Muffin|2628|Breakfast|Harris Soup, Salad, & Fruit|2628|Gluten|2628| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Plain English Muffin|2628|Breakfast|Harris Soup, Salad, & Fruit|2628|Conventional|2628| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Bacon Bits|2777|Dinner|Harris Great Tastes|2777|nitrite|2777| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Bacon Bits|2777|Dinner|Harris Great Tastes|2777|Pork|2777| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Bacon Bits|2777|Dinner|Harris Great Tastes|2777|Animal meat|2777| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Bacon Bits|2777|Dinner|Harris Great Tastes|2777|Conventional|2777| |
+Sep 13 2016 12:00:00:000AM|12 - Proteins|Bacon Bits|2777|Dinner|Harris Soup, Salad, & Fruit|2777|nitrite|2777| |
+Sep 13 2016 12:00:00:000AM|12 - Proteins|Bacon Bits|2777|Dinner|Harris Soup, Salad, & Fruit|2777|Pork|2777| |
+Sep 13 2016 12:00:00:000AM|12 - Proteins|Bacon Bits|2777|Dinner|Harris Soup, Salad, & Fruit|2777|Animal meat|2777| |
+Sep 13 2016 12:00:00:000AM|12 - Proteins|Bacon Bits|2777|Dinner|Harris Soup, Salad, & Fruit|2777|Conventional|2777| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|MultiGrain Buns|2791|Dinner|Harris Campus Grill|2791|Animal by-product|2791| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|MultiGrain Buns|2791|Dinner|Harris Campus Grill|2791|sulfite|2791| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|MultiGrain Buns|2791|Dinner|Harris Campus Grill|2791|Soy|2791| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|MultiGrain Buns|2791|Dinner|Harris Campus Grill|2791|nitrite|2791| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|MultiGrain Buns|2791|Dinner|Harris Campus Grill|2791|Wheat|2791| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|MultiGrain Buns|2791|Dinner|Harris Campus Grill|2791|Gluten|2791| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|MultiGrain Buns|2791|Dinner|Harris Campus Grill|2791|Conventional|2791| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Split Top White Bread|2798|Dinner|Harris Soup, Salad, & Fruit|2798|sulfite|2798| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Split Top White Bread|2798|Dinner|Harris Soup, Salad, & Fruit|2798|Soy|2798| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Split Top White Bread|2798|Dinner|Harris Soup, Salad, & Fruit|2798|nitrite|2798| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Split Top White Bread|2798|Dinner|Harris Soup, Salad, & Fruit|2798|Wheat|2798| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Split Top White Bread|2798|Dinner|Harris Soup, Salad, & Fruit|2798|Gluten|2798| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Split Top White Bread|2798|Dinner|Harris Soup, Salad, & Fruit|2798|Conventional|2798| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Split Top White Bread|2798|Breakfast|Harris Soup, Salad, & Fruit|2798|sulfite|2798| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Split Top White Bread|2798|Breakfast|Harris Soup, Salad, & Fruit|2798|Soy|2798| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Split Top White Bread|2798|Breakfast|Harris Soup, Salad, & Fruit|2798|nitrite|2798| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Split Top White Bread|2798|Breakfast|Harris Soup, Salad, & Fruit|2798|Wheat|2798| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Split Top White Bread|2798|Breakfast|Harris Soup, Salad, & Fruit|2798|Gluten|2798| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Split Top White Bread|2798|Breakfast|Harris Soup, Salad, & Fruit|2798|Conventional|2798| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Cream Cheese Cup|3164|Dinner|Harris Soup, Salad, & Fruit|3164|Soy|3164| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Cream Cheese Cup|3164|Dinner|Harris Soup, Salad, & Fruit|3164|Milk|3164| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Cream Cheese Cup|3164|Dinner|Harris Soup, Salad, & Fruit|3164|Animal by-product|3164| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Cream Cheese Cup|3164|Dinner|Harris Soup, Salad, & Fruit|3164|Conventional|3164| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Cream Cheese Cup|3164|Breakfast|Harris Soup, Salad, & Fruit|3164|Soy|3164| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Cream Cheese Cup|3164|Breakfast|Harris Soup, Salad, & Fruit|3164|Milk|3164| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Cream Cheese Cup|3164|Breakfast|Harris Soup, Salad, & Fruit|3164|Animal by-product|3164| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Cream Cheese Cup|3164|Breakfast|Harris Soup, Salad, & Fruit|3164|Conventional|3164| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Cream Cheese Cup|3164|Breakfast|Harris Soup, Salad, & Fruit|3164|Soy|3164| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Cream Cheese Cup|3164|Breakfast|Harris Soup, Salad, & Fruit|3164|Milk|3164| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Cream Cheese Cup|3164|Breakfast|Harris Soup, Salad, & Fruit|3164|Animal by-product|3164| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Cream Cheese Cup|3164|Breakfast|Harris Soup, Salad, & Fruit|3164|Conventional|3164| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|Fat Free Buttermilk Ranch Dressing|3172|Dinner|Harris Soup, Salad, & Fruit|3172|sulfite|3172| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|Fat Free Buttermilk Ranch Dressing|3172|Dinner|Harris Soup, Salad, & Fruit|3172|Soy|3172| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|Fat Free Buttermilk Ranch Dressing|3172|Dinner|Harris Soup, Salad, & Fruit|3172|Gluten|3172| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|Fat Free Buttermilk Ranch Dressing|3172|Dinner|Harris Soup, Salad, & Fruit|3172|Milk|3172| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|Fat Free Buttermilk Ranch Dressing|3172|Dinner|Harris Soup, Salad, & Fruit|3172|Animal by-product|3172| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|Fat Free Buttermilk Ranch Dressing|3172|Dinner|Harris Soup, Salad, & Fruit|3172|Conventional|3172| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Salsa/Picante Sauce|2835|Dinner|Harris Soup, Salad, & Fruit|2835|Conventional|2835| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|GF Tamari Soy Sauce|3878|Dinner|Harris Spice of Life|3878|Soy|3878| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|GF Tamari Soy Sauce|3878|Dinner|Harris Spice of Life|3878|Conventional|3878| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|Balsamic Vinaigrette Dressing|3886|Dinner|Harris Soup, Salad, & Fruit|3886|Vegan|3886| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|Balsamic Vinaigrette Dressing|3886|Dinner|Harris Soup, Salad, & Fruit|3886|Citric Acid|3886| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|Balsamic Vinaigrette Dressing|3886|Dinner|Harris Soup, Salad, & Fruit|3886|Soy|3886| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|Balsamic Vinaigrette Dressing|3886|Dinner|Harris Soup, Salad, & Fruit|3886|Conventional|3886| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Fresh Sliced Mushrooms |4078|Dinner|Harris Spice of Life|4078|Vegan|4078| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Fresh Sliced Mushrooms |4078|Dinner|Harris Spice of Life|4078|Conventional|4078| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Fresh Sliced Mushrooms |4078|Dinner|Harris Soup, Salad, & Fruit|4078|Vegan|4078| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Fresh Sliced Mushrooms |4078|Dinner|Harris Soup, Salad, & Fruit|4078|Conventional|4078| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Fresh Stemless Spinach|3794|Dinner|Harris Soup, Salad, & Fruit|3794|Vegan|3794| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Fresh Stemless Spinach|3794|Dinner|Harris Soup, Salad, & Fruit|3794|Conventional|3794| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Mesculine Lettuce Greens|3804|Dinner|Harris Soup, Salad, & Fruit|3804|Vegan|3804| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Mesculine Lettuce Greens|3804|Dinner|Harris Soup, Salad, & Fruit|3804|Conventional|3804| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Homemade M&M Cookie|3819|Dinner|Harris Traditions|3819|Eggs|3819| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Homemade M&M Cookie|3819|Dinner|Harris Traditions|3819|Milk|3819| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Homemade M&M Cookie|3819|Dinner|Harris Traditions|3819|Tree Nuts|3819| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Homemade M&M Cookie|3819|Dinner|Harris Traditions|3819|Wheat|3819| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Homemade M&M Cookie|3819|Dinner|Harris Traditions|3819|Soy|3819| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Homemade M&M Cookie|3819|Dinner|Harris Traditions|3819|Animal by-product|3819| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Homemade M&M Cookie|3819|Dinner|Harris Traditions|3819|nitrite|3819| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Homemade M&M Cookie|3819|Dinner|Harris Traditions|3819|Gluten|3819| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Homemade M&M Cookie|3819|Dinner|Harris Traditions|3819|sulfite|3819| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Homemade M&M Cookie|3819|Dinner|Harris Traditions|3819|Conventional|3819| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Homemade M&M Cookie|3819|Dinner|Harris Traditions|3819|Citric Acid|3819| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Diced White Chicken |4760|Dinner|Harris Spice of Life|4760|Animal by-product|4760| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Diced White Chicken |4760|Dinner|Harris Spice of Life|4760|Wheat|4760| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Diced White Chicken |4760|Dinner|Harris Spice of Life|4760|Gluten|4760| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Diced White Chicken |4760|Dinner|Harris Spice of Life|4760|Soy|4760| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Diced White Chicken |4760|Dinner|Harris Spice of Life|4760|Animal meat|4760| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Diced White Chicken |4760|Dinner|Harris Spice of Life|4760|Conventional|4760| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Shredded Carrots|4820|Dinner|Harris Spice of Life|4820|Vegan|4820| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Shredded Carrots|4820|Dinner|Harris Spice of Life|4820|Conventional|4820| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Shredded Carrots|4820|Dinner|Harris Soup, Salad, & Fruit|4820|Vegan|4820| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Shredded Carrots|4820|Dinner|Harris Soup, Salad, & Fruit|4820|Conventional|4820| |
+Sep 13 2016 12:00:00:000AM|48 - Yogurt Bar|Blueberries |4860|Breakfast|Harris Soup, Salad, & Fruit|4860|Conventional|4860| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Fortune Cookie|4869|Dinner|Harris Spice of Life|4869|Animal by-product|4869| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Fortune Cookie|4869|Dinner|Harris Spice of Life|4869|Soy|4869| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Fortune Cookie|4869|Dinner|Harris Spice of Life|4869|Gluten|4869| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Fortune Cookie|4869|Dinner|Harris Spice of Life|4869|Wheat|4869| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Fortune Cookie|4869|Dinner|Harris Spice of Life|4869|Conventional|4869| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Strawberry Cream Cheese|4615|Dinner|Harris Soup, Salad, & Fruit|4615|Citric Acid|4615| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Strawberry Cream Cheese|4615|Dinner|Harris Soup, Salad, & Fruit|4615|Soy|4615| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Strawberry Cream Cheese|4615|Dinner|Harris Soup, Salad, & Fruit|4615|Milk|4615| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Strawberry Cream Cheese|4615|Dinner|Harris Soup, Salad, & Fruit|4615|Conventional|4615| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Strawberry Cream Cheese|4615|Dinner|Harris Soup, Salad, & Fruit|4615|Animal by-product|4615| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Strawberry Cream Cheese|4615|Breakfast|Harris Soup, Salad, & Fruit|4615|Citric Acid|4615| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Strawberry Cream Cheese|4615|Breakfast|Harris Soup, Salad, & Fruit|4615|Soy|4615| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Strawberry Cream Cheese|4615|Breakfast|Harris Soup, Salad, & Fruit|4615|Milk|4615| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Strawberry Cream Cheese|4615|Breakfast|Harris Soup, Salad, & Fruit|4615|Conventional|4615| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Strawberry Cream Cheese|4615|Breakfast|Harris Soup, Salad, & Fruit|4615|Animal by-product|4615| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Iced Chocolate Donut|5199|Breakfast|Harris Campus Grill|5199|Eggs|5199| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Iced Chocolate Donut|5199|Breakfast|Harris Campus Grill|5199|Milk|5199| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Iced Chocolate Donut|5199|Breakfast|Harris Campus Grill|5199|Wheat|5199| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Iced Chocolate Donut|5199|Breakfast|Harris Campus Grill|5199|Soy|5199| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Iced Chocolate Donut|5199|Breakfast|Harris Campus Grill|5199|Animal by-product|5199| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Iced Chocolate Donut|5199|Breakfast|Harris Campus Grill|5199|nitrite|5199| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Iced Chocolate Donut|5199|Breakfast|Harris Campus Grill|5199|Gluten|5199| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Iced Chocolate Donut|5199|Breakfast|Harris Campus Grill|5199|Conventional|5199| |
+Sep 13 2016 12:00:00:000AM|12 - Proteins| Asiago Shredded Cheese |5696|Dinner|Harris Soup, Salad, & Fruit|5696|Milk|5696| |
+Sep 13 2016 12:00:00:000AM|12 - Proteins| Asiago Shredded Cheese |5696|Dinner|Harris Soup, Salad, & Fruit|5696|Conventional|5696| |
+Sep 13 2016 12:00:00:000AM|12 - Proteins| Asiago Shredded Cheese |5696|Dinner|Harris Soup, Salad, & Fruit|5696|Animal by-product|5696| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Celery Sticks|5872|Dinner|Harris Soup, Salad, & Fruit|5872|Vegan|5872| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Celery Sticks|5872|Dinner|Harris Soup, Salad, & Fruit|5872|Conventional|5872| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|Soy Sauce|5926|Dinner|Harris Spice of Life|5926|Wheat|5926| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|Soy Sauce|5926|Dinner|Harris Spice of Life|5926|Soy|5926| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|Soy Sauce|5926|Dinner|Harris Spice of Life|5926|Gluten|5926| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|Soy Sauce|5926|Dinner|Harris Spice of Life|5926|Conventional|5926| |
+Sep 13 2016 12:00:00:000AM|60 - Toppings|Dill Pickle Slices|5530|Dinner|Harris Campus Grill|5530|Vegan|5530| |
+Sep 13 2016 12:00:00:000AM|60 - Toppings|Dill Pickle Slices|5530|Dinner|Harris Campus Grill|5530|Conventional|5530| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Quiche Lorraine|6297|Breakfast|Harris Campus Grill|6297|Eggs|6297| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Quiche Lorraine|6297|Breakfast|Harris Campus Grill|6297|Milk|6297| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Quiche Lorraine|6297|Breakfast|Harris Campus Grill|6297|Wheat|6297| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Quiche Lorraine|6297|Breakfast|Harris Campus Grill|6297|Soy|6297| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Quiche Lorraine|6297|Breakfast|Harris Campus Grill|6297|Animal by-product|6297| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Quiche Lorraine|6297|Breakfast|Harris Campus Grill|6297|Animal meat|6297| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Quiche Lorraine|6297|Breakfast|Harris Campus Grill|6297|Pork|6297| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Quiche Lorraine|6297|Breakfast|Harris Campus Grill|6297|nitrite|6297| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Quiche Lorraine|6297|Breakfast|Harris Campus Grill|6297|Gluten|6297| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Quiche Lorraine|6297|Breakfast|Harris Campus Grill|6297|Conventional|6297| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Quiche Lorraine|6297|Breakfast|Harris Campus Grill|6297|Citric Acid|6297| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Roasted Pork Loin|6300|Dinner|Harris Spice of Life|6300|Animal meat|6300| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Roasted Pork Loin|6300|Dinner|Harris Spice of Life|6300|Pork|6300| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Roasted Pork Loin|6300|Dinner|Harris Spice of Life|6300|Conventional|6300| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Grilled Cheese Sandwich|6365|Dinner|Harris Campus Grill|6365|Milk|6365| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Grilled Cheese Sandwich|6365|Dinner|Harris Campus Grill|6365|Wheat|6365| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Grilled Cheese Sandwich|6365|Dinner|Harris Campus Grill|6365|Soy|6365| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Grilled Cheese Sandwich|6365|Dinner|Harris Campus Grill|6365|Animal by-product|6365| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Grilled Cheese Sandwich|6365|Dinner|Harris Campus Grill|6365|nitrite|6365| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Grilled Cheese Sandwich|6365|Dinner|Harris Campus Grill|6365|Gluten|6365| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Grilled Cheese Sandwich|6365|Dinner|Harris Campus Grill|6365|sulfite|6365| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Grilled Cheese Sandwich|6365|Dinner|Harris Campus Grill|6365|Conventional|6365| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Grilled Cheese Sandwich|6365|Dinner|Harris Campus Grill|6365|Citric Acid|6365| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Grilled Cheese Sandwich|6365|Dinner|Harris Campus Grill|6365|Milk|6365| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Grilled Cheese Sandwich|6365|Dinner|Harris Campus Grill|6365|Wheat|6365| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Grilled Cheese Sandwich|6365|Dinner|Harris Campus Grill|6365|Soy|6365| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Grilled Cheese Sandwich|6365|Dinner|Harris Campus Grill|6365|Animal by-product|6365| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Grilled Cheese Sandwich|6365|Dinner|Harris Campus Grill|6365|nitrite|6365| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Grilled Cheese Sandwich|6365|Dinner|Harris Campus Grill|6365|Gluten|6365| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Grilled Cheese Sandwich|6365|Dinner|Harris Campus Grill|6365|sulfite|6365| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Grilled Cheese Sandwich|6365|Dinner|Harris Campus Grill|6365|Conventional|6365| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Grilled Cheese Sandwich|6365|Dinner|Harris Campus Grill|6365|Citric Acid|6365| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Glazed Twist Donut|5983|Breakfast|Harris Campus Grill|5983|Eggs|5983| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Glazed Twist Donut|5983|Breakfast|Harris Campus Grill|5983|Milk|5983| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Glazed Twist Donut|5983|Breakfast|Harris Campus Grill|5983|Wheat|5983| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Glazed Twist Donut|5983|Breakfast|Harris Campus Grill|5983|Soy|5983| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Glazed Twist Donut|5983|Breakfast|Harris Campus Grill|5983|Animal by-product|5983| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Glazed Twist Donut|5983|Breakfast|Harris Campus Grill|5983|nitrite|5983| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Glazed Twist Donut|5983|Breakfast|Harris Campus Grill|5983|Gluten|5983| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Glazed Twist Donut|5983|Breakfast|Harris Campus Grill|5983|Conventional|5983| |
+Sep 13 2016 12:00:00:000AM|12 - Proteins|Chopped Hardcooked Egg|6968|Dinner|Harris Soup, Salad, & Fruit|6968|Eggs|6968| |
+Sep 13 2016 12:00:00:000AM|12 - Proteins|Chopped Hardcooked Egg|6968|Dinner|Harris Soup, Salad, & Fruit|6968|Animal by-product|6968| |
+Sep 13 2016 12:00:00:000AM|12 - Proteins|Chopped Hardcooked Egg|6968|Dinner|Harris Soup, Salad, & Fruit|6968|Conventional|6968| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|Sweet n Sour Sauce|7034|Dinner|Harris Spice of Life|7034|Conventional|7034| |
+Sep 13 2016 12:00:00:000AM|60 - Toppings|Maple Syrup|7042|Breakfast|Harris Campus Grill|7042|sulfite|7042| |
+Sep 13 2016 12:00:00:000AM|60 - Toppings|Maple Syrup|7042|Breakfast|Harris Campus Grill|7042|Conventional|7042| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Whole Kernel Corn|6596|Dinner|Harris Great Tastes|6596|Conventional|6596| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Grapefruit Half|6662|Dinner|Harris Soup, Salad, & Fruit|6662|Conventional|6662| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Grapefruit Half|6662|Breakfast|Harris Soup, Salad, & Fruit|6662|Conventional|6662| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Fresh Strawberries|6685|Dinner|Harris Soup, Salad, & Fruit|6685|Conventional|6685| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Fresh Strawberries|6685|Dinner|Harris Soup, Salad, & Fruit|6685|Vegan|6685| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Fresh Strawberries|6685|Breakfast|Harris Soup, Salad, & Fruit|6685|Conventional|6685| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Fresh Strawberries|6685|Breakfast|Harris Soup, Salad, & Fruit|6685|Vegan|6685| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Orange Glazed Pork Loin|7528|Dinner|Harris Traditions|7528|Animal by-product|7528| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Orange Glazed Pork Loin|7528|Dinner|Harris Traditions|7528|Animal meat|7528| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Orange Glazed Pork Loin|7528|Dinner|Harris Traditions|7528|Pork|7528| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Orange Glazed Pork Loin|7528|Dinner|Harris Traditions|7528|Conventional|7528| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Grilled Tofu Steak|7593|Breakfast|Harris Campus Grill|7593|Vegan|7593| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Grilled Tofu Steak|7593|Breakfast|Harris Campus Grill|7593|Wheat|7593| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Grilled Tofu Steak|7593|Breakfast|Harris Campus Grill|7593|Soy|7593| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Grilled Tofu Steak|7593|Breakfast|Harris Campus Grill|7593|nitrite|7593| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Grilled Tofu Steak|7593|Breakfast|Harris Campus Grill|7593|Gluten|7593| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Grilled Tofu Steak|7593|Breakfast|Harris Campus Grill|7593|sulfite|7593| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Grilled Tofu Steak|7593|Breakfast|Harris Campus Grill|7593|Conventional|7593| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Fried Eggs|7199|Breakfast|Harris Campus Grill|7199|Eggs|7199| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Fried Eggs|7199|Breakfast|Harris Campus Grill|7199|Animal by-product|7199| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Fried Eggs|7199|Breakfast|Harris Campus Grill|7199|Conventional|7199| |
+Sep 13 2016 12:00:00:000AM|12 - Proteins|Sausage Links|7209|Breakfast|Harris Campus Grill|7209|Animal meat|7209| |
+Sep 13 2016 12:00:00:000AM|12 - Proteins|Sausage Links|7209|Breakfast|Harris Campus Grill|7209|Pork|7209| |
+Sep 13 2016 12:00:00:000AM|12 - Proteins|Sausage Links|7209|Breakfast|Harris Campus Grill|7209|Conventional|7209| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |French Toast Sticks |7235|Breakfast|Harris Campus Grill|7235|Eggs|7235| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |French Toast Sticks |7235|Breakfast|Harris Campus Grill|7235|Milk|7235| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |French Toast Sticks |7235|Breakfast|Harris Campus Grill|7235|Wheat|7235| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |French Toast Sticks |7235|Breakfast|Harris Campus Grill|7235|Soy|7235| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |French Toast Sticks |7235|Breakfast|Harris Campus Grill|7235|Animal by-product|7235| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |French Toast Sticks |7235|Breakfast|Harris Campus Grill|7235|nitrite|7235| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |French Toast Sticks |7235|Breakfast|Harris Campus Grill|7235|Gluten|7235| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |French Toast Sticks |7235|Breakfast|Harris Campus Grill|7235|Conventional|7235| |
+Sep 13 2016 12:00:00:000AM|96 - Par Stock|Par Stock Harris Milk|7302|Breakfast|Harris Campus Grill|7302|Milk|7302| |
+Sep 13 2016 12:00:00:000AM|96 - Par Stock|Par Stock Harris Milk|7302|Breakfast|Harris Campus Grill|7302|Soy|7302| |
+Sep 13 2016 12:00:00:000AM|96 - Par Stock|Par Stock Harris Milk|7302|Breakfast|Harris Campus Grill|7302|Animal by-product|7302| |
+Sep 13 2016 12:00:00:000AM|96 - Par Stock|Par Stock Harris Milk|7302|Breakfast|Harris Campus Grill|7302|Conventional|7302| |
+Sep 13 2016 12:00:00:000AM|96 - Par Stock|Par Stock Harris Tuesday|7303|Breakfast|Harris Campus Grill|7303|Milk|7303| |
+Sep 13 2016 12:00:00:000AM|96 - Par Stock|Par Stock Harris Tuesday|7303|Breakfast|Harris Campus Grill|7303|Soy|7303| |
+Sep 13 2016 12:00:00:000AM|96 - Par Stock|Par Stock Harris Tuesday|7303|Breakfast|Harris Campus Grill|7303|Animal by-product|7303| |
+Sep 13 2016 12:00:00:000AM|96 - Par Stock|Par Stock Harris Tuesday|7303|Breakfast|Harris Campus Grill|7303|Gluten|7303| |
+Sep 13 2016 12:00:00:000AM|96 - Par Stock|Par Stock Harris Tuesday|7303|Breakfast|Harris Campus Grill|7303|sulfite|7303| |
+Sep 13 2016 12:00:00:000AM|96 - Par Stock|Par Stock Harris Tuesday|7303|Breakfast|Harris Campus Grill|7303|Conventional|7303| |
+Sep 13 2016 12:00:00:000AM|96 - Par Stock|Par Stock Harris Tuesday|7303|Breakfast|Harris Campus Grill|7303|Citric Acid|7303| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Vegan Nuggets|7396|Dinner|Harris Campus Grill|7396|Wheat|7396| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Vegan Nuggets|7396|Dinner|Harris Campus Grill|7396|Soy|7396| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Vegan Nuggets|7396|Dinner|Harris Campus Grill|7396|Gluten|7396| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Vegan Nuggets|7396|Dinner|Harris Campus Grill|7396|Conventional|7396| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Vegan Nuggets|7396|Dinner|Harris Campus Grill|7396|Vegan|7396| |
+Sep 13 2016 12:00:00:000AM|02 - Soup                     |Vegan Bean & Pumpkin Chili|8144|Dinner|Harris Soup, Salad, & Fruit|8144|Soy|8144| |
+Sep 13 2016 12:00:00:000AM|02 - Soup                     |Vegan Bean & Pumpkin Chili|8144|Dinner|Harris Soup, Salad, & Fruit|8144|sulfite|8144| |
+Sep 13 2016 12:00:00:000AM|02 - Soup                     |Vegan Bean & Pumpkin Chili|8144|Dinner|Harris Soup, Salad, & Fruit|8144|MSG|8144| |
+Sep 13 2016 12:00:00:000AM|02 - Soup                     |Vegan Bean & Pumpkin Chili|8144|Dinner|Harris Soup, Salad, & Fruit|8144|Citric Acid|8144| |
+Sep 13 2016 12:00:00:000AM|02 - Soup                     |Vegan Bean & Pumpkin Chili|8144|Dinner|Harris Soup, Salad, & Fruit|8144|Vegan|8144| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Frozen Chocolate Yogurt|8614|Dinner|Harris Traditions|8614|Milk|8614| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Frozen Chocolate Yogurt|8614|Dinner|Harris Traditions|8614|Soy|8614| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Frozen Chocolate Yogurt|8614|Dinner|Harris Traditions|8614|Animal by-product|8614| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Frozen Chocolate Yogurt|8614|Dinner|Harris Traditions|8614|Conventional|8614| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Vanilla Frozen Yogurt|8615|Dinner|Harris Traditions|8615|Milk|8615| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Vanilla Frozen Yogurt|8615|Dinner|Harris Traditions|8615|Soy|8615| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Vanilla Frozen Yogurt|8615|Dinner|Harris Traditions|8615|Animal by-product|8615| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Vanilla Frozen Yogurt|8615|Dinner|Harris Traditions|8615|Conventional|8615| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Poultry Gravy|8724|Dinner|Harris Great Tastes|8724|Citric Acid|8724| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Poultry Gravy|8724|Dinner|Harris Great Tastes|8724|Wheat|8724| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Poultry Gravy|8724|Dinner|Harris Great Tastes|8724|Soy|8724| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Poultry Gravy|8724|Dinner|Harris Great Tastes|8724|Animal by-product|8724| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Poultry Gravy|8724|Dinner|Harris Great Tastes|8724|nitrite|8724| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Poultry Gravy|8724|Dinner|Harris Great Tastes|8724|Gluten|8724| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Poultry Gravy|8724|Dinner|Harris Great Tastes|8724|Conventional|8724| |
+Sep 13 2016 12:00:00:000AM|48 - Yogurt Bar|Strawberries|8244|Breakfast|Harris Soup, Salad, & Fruit|8244|Conventional|8244| |
+Sep 13 2016 12:00:00:000AM|48 - Yogurt Bar|Strawberries|8244|Breakfast|Harris Soup, Salad, & Fruit|8244|Vegan|8244| |
+Sep 13 2016 12:00:00:000AM|60 - Toppings|Cinnamon Sugar|8292|Dinner|Harris Soup, Salad, & Fruit|8292|Conventional|8292| |
+Sep 13 2016 12:00:00:000AM|60 - Toppings|Cinnamon Sugar|8292|Breakfast|Harris Soup, Salad, & Fruit|8292|Conventional|8292| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Vegetable Egg Roll|9281|Dinner|Harris Spice of Life|9281|Eggs|9281| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Vegetable Egg Roll|9281|Dinner|Harris Spice of Life|9281|Wheat|9281| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Vegetable Egg Roll|9281|Dinner|Harris Spice of Life|9281|Soy|9281| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Vegetable Egg Roll|9281|Dinner|Harris Spice of Life|9281|Animal by-product|9281| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Vegetable Egg Roll|9281|Dinner|Harris Spice of Life|9281|Gluten|9281| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Vegetable Egg Roll|9281|Dinner|Harris Spice of Life|9281|Conventional|9281| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Scrambled Egg Whites|9301|Breakfast|Harris Campus Grill|9301|Eggs|9301| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Scrambled Egg Whites|9301|Breakfast|Harris Campus Grill|9301|Soy|9301| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Scrambled Egg Whites|9301|Breakfast|Harris Campus Grill|9301|Animal by-product|9301| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Scrambled Egg Whites|9301|Breakfast|Harris Campus Grill|9301|Conventional|9301| |
+Sep 13 2016 12:00:00:000AM|06 - Starch|Hash Brown Patty|8924|Breakfast|Harris Campus Grill|8924|Soy|8924| |
+Sep 13 2016 12:00:00:000AM|06 - Starch|Hash Brown Patty|8924|Breakfast|Harris Campus Grill|8924|Animal by-product|8924| |
+Sep 13 2016 12:00:00:000AM|06 - Starch|Hash Brown Patty|8924|Breakfast|Harris Campus Grill|8924|Conventional|8924| |
+Sep 13 2016 12:00:00:000AM|02 - Soup                     |Chicken Noodle Soup|9019|Dinner|Harris Soup, Salad, & Fruit|9019|Eggs|9019| |
+Sep 13 2016 12:00:00:000AM|02 - Soup                     |Chicken Noodle Soup|9019|Dinner|Harris Soup, Salad, & Fruit|9019|Wheat|9019| |
+Sep 13 2016 12:00:00:000AM|02 - Soup                     |Chicken Noodle Soup|9019|Dinner|Harris Soup, Salad, & Fruit|9019|Soy|9019| |
+Sep 13 2016 12:00:00:000AM|02 - Soup                     |Chicken Noodle Soup|9019|Dinner|Harris Soup, Salad, & Fruit|9019|Animal by-product|9019| |
+Sep 13 2016 12:00:00:000AM|02 - Soup                     |Chicken Noodle Soup|9019|Dinner|Harris Soup, Salad, & Fruit|9019|Animal meat|9019| |
+Sep 13 2016 12:00:00:000AM|02 - Soup                     |Chicken Noodle Soup|9019|Dinner|Harris Soup, Salad, & Fruit|9019|nitrite|9019| |
+Sep 13 2016 12:00:00:000AM|02 - Soup                     |Chicken Noodle Soup|9019|Dinner|Harris Soup, Salad, & Fruit|9019|Gluten|9019| |
+Sep 13 2016 12:00:00:000AM|02 - Soup                     |Chicken Noodle Soup|9019|Dinner|Harris Soup, Salad, & Fruit|9019|sulfite|9019| |
+Sep 13 2016 12:00:00:000AM|02 - Soup                     |Chicken Noodle Soup|9019|Dinner|Harris Soup, Salad, & Fruit|9019|Conventional|9019| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Spicy Chicken Breast Sandwich|9027|Dinner|Harris Campus Grill|9027|Wheat|9027| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Spicy Chicken Breast Sandwich|9027|Dinner|Harris Campus Grill|9027|Soy|9027| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Spicy Chicken Breast Sandwich|9027|Dinner|Harris Campus Grill|9027|Animal meat|9027| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Spicy Chicken Breast Sandwich|9027|Dinner|Harris Campus Grill|9027|Gluten|9027| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Spicy Chicken Breast Sandwich|9027|Dinner|Harris Campus Grill|9027|Conventional|9027| |
+Sep 13 2016 12:00:00:000AM|06 - Starch|Black Pepper Fries|9728|Dinner|Harris Campus Grill|9728|Vegan|9728| |
+Sep 13 2016 12:00:00:000AM|06 - Starch|Black Pepper Fries|9728|Dinner|Harris Campus Grill|9728|Wheat|9728| |
+Sep 13 2016 12:00:00:000AM|06 - Starch|Black Pepper Fries|9728|Dinner|Harris Campus Grill|9728|Soy|9728| |
+Sep 13 2016 12:00:00:000AM|06 - Starch|Black Pepper Fries|9728|Dinner|Harris Campus Grill|9728|nitrite|9728| |
+Sep 13 2016 12:00:00:000AM|06 - Starch|Black Pepper Fries|9728|Dinner|Harris Campus Grill|9728|MSG|9728| |
+Sep 13 2016 12:00:00:000AM|06 - Starch|Black Pepper Fries|9728|Dinner|Harris Campus Grill|9728|Gluten|9728| |
+Sep 13 2016 12:00:00:000AM|06 - Starch|Black Pepper Fries|9728|Dinner|Harris Campus Grill|9728|Conventional|9728| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|Chili Garlic Sauce|9890|Dinner|Harris Spice of Life|9890|Vegan|9890| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|Chili Garlic Sauce|9890|Dinner|Harris Spice of Life|9890|Conventional|9890| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|Chili Garlic Sauce|9890|Dinner|Harris Spice of Life|9890|sulfite|9890| |
+Sep 13 2016 12:00:00:000AM|06 - Starch|Oven Roasted Sweet Potato Wedges|10904|Dinner|Harris Traditions|10904|Conventional|10904| |
+Sep 13 2016 12:00:00:000AM|06 - Starch|Oven Roasted Sweet Potato Wedges|10904|Dinner|Harris Traditions|10904|Citric Acid|10904| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Honeydew Chunks|11451|Dinner|Harris Soup, Salad, & Fruit|11451|Vegan|11451| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Honeydew Chunks|11451|Dinner|Harris Soup, Salad, & Fruit|11451|Conventional|11451| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Honeydew Chunks|11451|Breakfast|Harris Soup, Salad, & Fruit|11451|Vegan|11451| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Honeydew Chunks|11451|Breakfast|Harris Soup, Salad, & Fruit|11451|Conventional|11451| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Mashed Potatoes|11801|Dinner|Harris Great Tastes|11801|Milk|11801| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Mashed Potatoes|11801|Dinner|Harris Great Tastes|11801|Soy|11801| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Mashed Potatoes|11801|Dinner|Harris Great Tastes|11801|Animal by-product|11801| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Mashed Potatoes|11801|Dinner|Harris Great Tastes|11801|sulfite|11801| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Mashed Potatoes|11801|Dinner|Harris Great Tastes|11801|Conventional|11801| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Mashed Potatoes|11801|Dinner|Harris Great Tastes|11801|Citric Acid|11801| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Romaine Lettuce Mix|12496|Dinner|Harris Soup, Salad, & Fruit|12496|Vegan|12496| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Romaine Lettuce Mix|12496|Dinner|Harris Soup, Salad, & Fruit|12496|Conventional|12496| |
+Sep 13 2016 12:00:00:000AM|60 - Toppings|Shredded Lettuce|12497|Dinner|Harris Campus Grill|12497|Vegan|12497| |
+Sep 13 2016 12:00:00:000AM|60 - Toppings|Shredded Lettuce|12497|Dinner|Harris Campus Grill|12497|Conventional|12497| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Ketchup |12699|Dinner|Harris Soup, Salad, & Fruit|12699|Conventional|12699| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Parmesan Chicken Sandwich|12898|Dinner|Harris Campus Grill|12898|Eggs|12898| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Parmesan Chicken Sandwich|12898|Dinner|Harris Campus Grill|12898|Milk|12898| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Parmesan Chicken Sandwich|12898|Dinner|Harris Campus Grill|12898|Wheat|12898| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Parmesan Chicken Sandwich|12898|Dinner|Harris Campus Grill|12898|Soy|12898| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Parmesan Chicken Sandwich|12898|Dinner|Harris Campus Grill|12898|Animal by-product|12898| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Parmesan Chicken Sandwich|12898|Dinner|Harris Campus Grill|12898|Animal meat|12898| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Parmesan Chicken Sandwich|12898|Dinner|Harris Campus Grill|12898|nitrite|12898| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Parmesan Chicken Sandwich|12898|Dinner|Harris Campus Grill|12898|Gluten|12898| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Parmesan Chicken Sandwich|12898|Dinner|Harris Campus Grill|12898|sulfite|12898| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Parmesan Chicken Sandwich|12898|Dinner|Harris Campus Grill|12898|Conventional|12898| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Parmesan Chicken Sandwich|12898|Dinner|Harris Campus Grill|12898|Citric Acid|12898| |
+Sep 13 2016 12:00:00:000AM|12 - Proteins|Tuna Chunks Salad Bar|13918|Dinner|Harris Soup, Salad, & Fruit|13918|Soy|13918| |
+Sep 13 2016 12:00:00:000AM|12 - Proteins|Tuna Chunks Salad Bar|13918|Dinner|Harris Soup, Salad, & Fruit|13918|Fish|13918| |
+Sep 13 2016 12:00:00:000AM|12 - Proteins|Tuna Chunks Salad Bar|13918|Dinner|Harris Soup, Salad, & Fruit|13918|Conventional|13918| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Gluten Free Plain Bagel|15378|Dinner|Harris Soup, Salad, & Fruit|15378|Soy|15378| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Gluten Free Plain Bagel|15378|Dinner|Harris Soup, Salad, & Fruit|15378|Milk|15378| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Gluten Free Plain Bagel|15378|Dinner|Harris Soup, Salad, & Fruit|15378|Eggs|15378| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Gluten Free Plain Bagel|15378|Dinner|Harris Soup, Salad, & Fruit|15378|Conventional|15378| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Gluten Free Plain Bagel|15378|Dinner|Harris Soup, Salad, & Fruit|15378|Animal by-product|15378| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Gluten Free Plain Bagel|15378|Breakfast|Harris Soup, Salad, & Fruit|15378|Soy|15378| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Gluten Free Plain Bagel|15378|Breakfast|Harris Soup, Salad, & Fruit|15378|Milk|15378| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Gluten Free Plain Bagel|15378|Breakfast|Harris Soup, Salad, & Fruit|15378|Eggs|15378| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Gluten Free Plain Bagel|15378|Breakfast|Harris Soup, Salad, & Fruit|15378|Conventional|15378| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Gluten Free Plain Bagel|15378|Breakfast|Harris Soup, Salad, & Fruit|15378|Animal by-product|15378| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Everything Bagel|16781|Dinner|Harris Soup, Salad, & Fruit|16781|nitrite|16781| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Everything Bagel|16781|Dinner|Harris Soup, Salad, & Fruit|16781|Animal by-product|16781| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Everything Bagel|16781|Dinner|Harris Soup, Salad, & Fruit|16781|sulfite|16781| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Everything Bagel|16781|Dinner|Harris Soup, Salad, & Fruit|16781|Soy|16781| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Everything Bagel|16781|Dinner|Harris Soup, Salad, & Fruit|16781|Gluten|16781| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Everything Bagel|16781|Dinner|Harris Soup, Salad, & Fruit|16781|Wheat|16781| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Everything Bagel|16781|Dinner|Harris Soup, Salad, & Fruit|16781|Conventional|16781| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Everything Bagel|16781|Breakfast|Harris Soup, Salad, & Fruit|16781|nitrite|16781| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Everything Bagel|16781|Breakfast|Harris Soup, Salad, & Fruit|16781|Animal by-product|16781| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Everything Bagel|16781|Breakfast|Harris Soup, Salad, & Fruit|16781|sulfite|16781| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Everything Bagel|16781|Breakfast|Harris Soup, Salad, & Fruit|16781|Soy|16781| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Everything Bagel|16781|Breakfast|Harris Soup, Salad, & Fruit|16781|Gluten|16781| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Everything Bagel|16781|Breakfast|Harris Soup, Salad, & Fruit|16781|Wheat|16781| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Everything Bagel|16781|Breakfast|Harris Soup, Salad, & Fruit|16781|Conventional|16781| |
+Sep 13 2016 12:00:00:000AM|48 - Yogurt Bar|Cereal Granola Bulk 44 oz|17752|Dinner|Harris Soup, Salad, & Fruit|17752|Animal by-product|17752| |
+Sep 13 2016 12:00:00:000AM|48 - Yogurt Bar|Cereal Granola Bulk 44 oz|17752|Dinner|Harris Soup, Salad, & Fruit|17752|Soy|17752| |
+Sep 13 2016 12:00:00:000AM|48 - Yogurt Bar|Cereal Granola Bulk 44 oz|17752|Dinner|Harris Soup, Salad, & Fruit|17752|Gluten|17752| |
+Sep 13 2016 12:00:00:000AM|48 - Yogurt Bar|Cereal Granola Bulk 44 oz|17752|Breakfast|Harris Soup, Salad, & Fruit|17752|Animal by-product|17752| |
+Sep 13 2016 12:00:00:000AM|48 - Yogurt Bar|Cereal Granola Bulk 44 oz|17752|Breakfast|Harris Soup, Salad, & Fruit|17752|Soy|17752| |
+Sep 13 2016 12:00:00:000AM|48 - Yogurt Bar|Cereal Granola Bulk 44 oz|17752|Breakfast|Harris Soup, Salad, & Fruit|17752|Gluten|17752| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Barley Pilaf with Vegetables|18664|Dinner|Harris Traditions|18664|Vegan|18664| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Barley Pilaf with Vegetables|18664|Dinner|Harris Traditions|18664|Soy|18664| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Barley Pilaf with Vegetables|18664|Dinner|Harris Traditions|18664|Gluten|18664| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Barley Pilaf with Vegetables|18664|Dinner|Harris Traditions|18664|Conventional|18664| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Barley Pilaf with Vegetables|18664|Dinner|Harris Traditions|18664|Citric Acid|18664| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|Sauce Chili Sweet|19406|Dinner|Harris Spice of Life|19406|Conventional|19406| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Gala Apples|19891|Dinner|Harris Soup, Salad, & Fruit|19891|Vegan|19891| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Gala Apples|19891|Dinner|Harris Soup, Salad, & Fruit|19891|Conventional|19891| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Gala Apples|19891|Breakfast|Harris Soup, Salad, & Fruit|19891|Vegan|19891| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Gala Apples|19891|Breakfast|Harris Soup, Salad, & Fruit|19891|Conventional|19891| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Fish Tilapia Lime Chile|20205|Dinner|Harris Traditions|20205|Soy|20205| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Fish Tilapia Lime Chile|20205|Dinner|Harris Traditions|20205|Fish|20205| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Fish Tilapia Lime Chile|20205|Dinner|Harris Traditions|20205|Animal by-product|20205| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Fish Tilapia Lime Chile|20205|Dinner|Harris Traditions|20205|Gluten|20205| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Fish Tilapia Lime Chile|20205|Dinner|Harris Traditions|20205|Conventional|20205| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Sundae Toppings Bar |21047|Dinner|Harris Traditions|21047|Eggs|21047| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Sundae Toppings Bar |21047|Dinner|Harris Traditions|21047|Milk|21047| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Sundae Toppings Bar |21047|Dinner|Harris Traditions|21047|Tree Nuts|21047| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Sundae Toppings Bar |21047|Dinner|Harris Traditions|21047|Peanuts|21047| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Sundae Toppings Bar |21047|Dinner|Harris Traditions|21047|Wheat|21047| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Sundae Toppings Bar |21047|Dinner|Harris Traditions|21047|Soy|21047| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Sundae Toppings Bar |21047|Dinner|Harris Traditions|21047|Animal by-product|21047| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Sundae Toppings Bar |21047|Dinner|Harris Traditions|21047|nitrite|21047| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Sundae Toppings Bar |21047|Dinner|Harris Traditions|21047|Gluten|21047| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Sundae Toppings Bar |21047|Dinner|Harris Traditions|21047|sulfite|21047| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Sundae Toppings Bar |21047|Dinner|Harris Traditions|21047|Conventional|21047| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Sundae Toppings Bar |21047|Dinner|Harris Traditions|21047|Citric Acid|21047| |
+Sep 13 2016 12:00:00:000AM|60 - Toppings|Sugar Free Ind. Pancake Syrup|21423|Breakfast|Harris Campus Grill|21423|sulfite|21423| |
+Sep 13 2016 12:00:00:000AM|60 - Toppings|Sugar Free Ind. Pancake Syrup|21423|Breakfast|Harris Campus Grill|21423|Conventional|21423| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Turkey Patty|22523|Dinner|Harris Campus Grill|22523|Animal meat|22523| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Turkey Patty|22523|Dinner|Harris Campus Grill|22523|Conventional|22523| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|General Tso Sauce|23232|Dinner|Harris Spice of Life|23232|Vegan|23232| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|General Tso Sauce|23232|Dinner|Harris Spice of Life|23232|Citric Acid|23232| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|General Tso Sauce|23232|Dinner|Harris Spice of Life|23232|Gluten|23232| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|General Tso Sauce|23232|Dinner|Harris Spice of Life|23232|Wheat|23232| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|General Tso Sauce|23232|Dinner|Harris Spice of Life|23232|Soy|23232| |
+Sep 13 2016 12:00:00:000AM|57 - Sauce & Gravy|General Tso Sauce|23232|Dinner|Harris Spice of Life|23232|Conventional|23232| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Orange Blossom Muffin|23721|Breakfast|Harris Campus Grill|23721|Eggs|23721| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Orange Blossom Muffin|23721|Breakfast|Harris Campus Grill|23721|Milk|23721| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Orange Blossom Muffin|23721|Breakfast|Harris Campus Grill|23721|Wheat|23721| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Orange Blossom Muffin|23721|Breakfast|Harris Campus Grill|23721|Soy|23721| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Orange Blossom Muffin|23721|Breakfast|Harris Campus Grill|23721|Animal by-product|23721| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Orange Blossom Muffin|23721|Breakfast|Harris Campus Grill|23721|nitrite|23721| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Orange Blossom Muffin|23721|Breakfast|Harris Campus Grill|23721|Gluten|23721| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Orange Blossom Muffin|23721|Breakfast|Harris Campus Grill|23721|sulfite|23721| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Orange Blossom Muffin|23721|Breakfast|Harris Campus Grill|23721|Conventional|23721| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Orange Blossom Muffin|23721|Breakfast|Harris Campus Grill|23721|Citric Acid|23721| |
+Sep 13 2016 12:00:00:000AM|01 - Appetizer|French Baguette|23763|Dinner|Harris Campus Grill|23763|Milk|23763| |
+Sep 13 2016 12:00:00:000AM|01 - Appetizer|French Baguette|23763|Dinner|Harris Campus Grill|23763|Wheat|23763| |
+Sep 13 2016 12:00:00:000AM|01 - Appetizer|French Baguette|23763|Dinner|Harris Campus Grill|23763|Soy|23763| |
+Sep 13 2016 12:00:00:000AM|01 - Appetizer|French Baguette|23763|Dinner|Harris Campus Grill|23763|Animal by-product|23763| |
+Sep 13 2016 12:00:00:000AM|01 - Appetizer|French Baguette|23763|Dinner|Harris Campus Grill|23763|nitrite|23763| |
+Sep 13 2016 12:00:00:000AM|01 - Appetizer|French Baguette|23763|Dinner|Harris Campus Grill|23763|Gluten|23763| |
+Sep 13 2016 12:00:00:000AM|01 - Appetizer|French Baguette|23763|Dinner|Harris Campus Grill|23763|sulfite|23763| |
+Sep 13 2016 12:00:00:000AM|01 - Appetizer|French Baguette|23763|Dinner|Harris Campus Grill|23763|Conventional|23763| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Old Fashioned Blueberry Muffin|24285|Breakfast|Harris Campus Grill|24285|Eggs|24285| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Old Fashioned Blueberry Muffin|24285|Breakfast|Harris Campus Grill|24285|Milk|24285| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Old Fashioned Blueberry Muffin|24285|Breakfast|Harris Campus Grill|24285|Wheat|24285| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Old Fashioned Blueberry Muffin|24285|Breakfast|Harris Campus Grill|24285|Soy|24285| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Old Fashioned Blueberry Muffin|24285|Breakfast|Harris Campus Grill|24285|Animal by-product|24285| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Old Fashioned Blueberry Muffin|24285|Breakfast|Harris Campus Grill|24285|nitrite|24285| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Old Fashioned Blueberry Muffin|24285|Breakfast|Harris Campus Grill|24285|Gluten|24285| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Old Fashioned Blueberry Muffin|24285|Breakfast|Harris Campus Grill|24285|sulfite|24285| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Old Fashioned Blueberry Muffin|24285|Breakfast|Harris Campus Grill|24285|Conventional|24285| |
+Sep 13 2016 12:00:00:000AM|48 - Yogurt Bar|Vanilla Yogurt|24358|Dinner|Harris Soup, Salad, & Fruit|24358|Soy|24358| |
+Sep 13 2016 12:00:00:000AM|48 - Yogurt Bar|Vanilla Yogurt|24358|Dinner|Harris Soup, Salad, & Fruit|24358|Milk|24358| |
+Sep 13 2016 12:00:00:000AM|48 - Yogurt Bar|Vanilla Yogurt|24358|Dinner|Harris Soup, Salad, & Fruit|24358|Animal by-product|24358| |
+Sep 13 2016 12:00:00:000AM|48 - Yogurt Bar|Vanilla Yogurt|24358|Dinner|Harris Soup, Salad, & Fruit|24358|Conventional|24358| |
+Sep 13 2016 12:00:00:000AM|48 - Yogurt Bar|Vanilla Yogurt|24358|Breakfast|Harris Soup, Salad, & Fruit|24358|Soy|24358| |
+Sep 13 2016 12:00:00:000AM|48 - Yogurt Bar|Vanilla Yogurt|24358|Breakfast|Harris Soup, Salad, & Fruit|24358|Milk|24358| |
+Sep 13 2016 12:00:00:000AM|48 - Yogurt Bar|Vanilla Yogurt|24358|Breakfast|Harris Soup, Salad, & Fruit|24358|Animal by-product|24358| |
+Sep 13 2016 12:00:00:000AM|48 - Yogurt Bar|Vanilla Yogurt|24358|Breakfast|Harris Soup, Salad, & Fruit|24358|Conventional|24358| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Golden Crisp Chicken |24574|Dinner|Harris Great Tastes|24574|Wheat|24574| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Golden Crisp Chicken |24574|Dinner|Harris Great Tastes|24574|Animal by-product|24574| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Golden Crisp Chicken |24574|Dinner|Harris Great Tastes|24574|Animal meat|24574| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Ground Flax Seed|24651|Dinner|Harris Soup, Salad, & Fruit|24651|Conventional|24651| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Ground Flax Seed|24651|Dinner|Harris Soup, Salad, & Fruit|24651|Tree Nuts|24651| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Ground Flax Seed|24651|Dinner|Harris Soup, Salad, & Fruit|24651|Soy|24651| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Hot and Spicy Meatballs|24957|Dinner|Harris Great Tastes|24957|Eggs|24957| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Hot and Spicy Meatballs|24957|Dinner|Harris Great Tastes|24957|Milk|24957| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Hot and Spicy Meatballs|24957|Dinner|Harris Great Tastes|24957|Wheat|24957| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Hot and Spicy Meatballs|24957|Dinner|Harris Great Tastes|24957|Soy|24957| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Hot and Spicy Meatballs|24957|Dinner|Harris Great Tastes|24957|Animal by-product|24957| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Hot and Spicy Meatballs|24957|Dinner|Harris Great Tastes|24957|Animal meat|24957| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Hot and Spicy Meatballs|24957|Dinner|Harris Great Tastes|24957|Pork|24957| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Hot and Spicy Meatballs|24957|Dinner|Harris Great Tastes|24957|Beef|24957| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Hot and Spicy Meatballs|24957|Dinner|Harris Great Tastes|24957|nitrite|24957| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Hot and Spicy Meatballs|24957|Dinner|Harris Great Tastes|24957|Gluten|24957| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Hot and Spicy Meatballs|24957|Dinner|Harris Great Tastes|24957|sulfite|24957| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Hot and Spicy Meatballs|24957|Dinner|Harris Great Tastes|24957|Conventional|24957| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Hot and Spicy Meatballs|24957|Dinner|Harris Great Tastes|24957|Citric Acid|24957| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Raspberry Yogurt Muffin |24991|Breakfast|Harris Campus Grill|24991|Eggs|24991| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Raspberry Yogurt Muffin |24991|Breakfast|Harris Campus Grill|24991|Milk|24991| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Raspberry Yogurt Muffin |24991|Breakfast|Harris Campus Grill|24991|Wheat|24991| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Raspberry Yogurt Muffin |24991|Breakfast|Harris Campus Grill|24991|Soy|24991| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Raspberry Yogurt Muffin |24991|Breakfast|Harris Campus Grill|24991|Animal by-product|24991| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Raspberry Yogurt Muffin |24991|Breakfast|Harris Campus Grill|24991|nitrite|24991| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Raspberry Yogurt Muffin |24991|Breakfast|Harris Campus Grill|24991|Gluten|24991| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Raspberry Yogurt Muffin |24991|Breakfast|Harris Campus Grill|24991|Conventional|24991| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Veggie Griller|25292|Dinner|Harris Campus Grill|25292|Vegan|25292| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Veggie Griller|25292|Dinner|Harris Campus Grill|25292|Wheat|25292| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Veggie Griller|25292|Dinner|Harris Campus Grill|25292|Soy|25292| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Veggie Griller|25292|Dinner|Harris Campus Grill|25292|Gluten|25292| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Veggie Griller|25292|Dinner|Harris Campus Grill|25292|Conventional|25292| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Whole Wheat Spice Bar/Maple Cream Icing|25833|Dinner|Harris Traditions|25833|Eggs|25833| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Whole Wheat Spice Bar/Maple Cream Icing|25833|Dinner|Harris Traditions|25833|Milk|25833| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Whole Wheat Spice Bar/Maple Cream Icing|25833|Dinner|Harris Traditions|25833|Wheat|25833| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Whole Wheat Spice Bar/Maple Cream Icing|25833|Dinner|Harris Traditions|25833|Soy|25833| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Whole Wheat Spice Bar/Maple Cream Icing|25833|Dinner|Harris Traditions|25833|Animal by-product|25833| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Whole Wheat Spice Bar/Maple Cream Icing|25833|Dinner|Harris Traditions|25833|nitrite|25833| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Whole Wheat Spice Bar/Maple Cream Icing|25833|Dinner|Harris Traditions|25833|Gluten|25833| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Whole Wheat Spice Bar/Maple Cream Icing|25833|Dinner|Harris Traditions|25833|sulfite|25833| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Whole Wheat Spice Bar/Maple Cream Icing|25833|Dinner|Harris Traditions|25833|Conventional|25833| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Whole Wheat Spice Bar/Maple Cream Icing|25833|Dinner|Harris Traditions|25833|Citric Acid|25833| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Vegan Banana Walnut Muffin|25938|Breakfast|Harris Campus Grill|25938|Tree Nuts|25938| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Vegan Banana Walnut Muffin|25938|Breakfast|Harris Campus Grill|25938|Wheat|25938| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Vegan Banana Walnut Muffin|25938|Breakfast|Harris Campus Grill|25938|Soy|25938| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Vegan Banana Walnut Muffin|25938|Breakfast|Harris Campus Grill|25938|nitrite|25938| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Vegan Banana Walnut Muffin|25938|Breakfast|Harris Campus Grill|25938|Gluten|25938| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Vegan Banana Walnut Muffin|25938|Breakfast|Harris Campus Grill|25938|Conventional|25938| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Vegan Banana Walnut Muffin|25938|Breakfast|Harris Campus Grill|25938|Citric Acid|25938| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Vegan Banana Walnut Muffin|25938|Breakfast|Harris Campus Grill|25938|Vegan|25938| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Wheatberry Bread|26095|Dinner|Harris Soup, Salad, & Fruit|26095|Vegan|26095| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Wheatberry Bread|26095|Dinner|Harris Soup, Salad, & Fruit|26095|Soy|26095| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Wheatberry Bread|26095|Dinner|Harris Soup, Salad, & Fruit|26095|nitrite|26095| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Wheatberry Bread|26095|Dinner|Harris Soup, Salad, & Fruit|26095|Wheat|26095| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Wheatberry Bread|26095|Dinner|Harris Soup, Salad, & Fruit|26095|Gluten|26095| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Wheatberry Bread|26095|Dinner|Harris Soup, Salad, & Fruit|26095|Conventional|26095| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Wheatberry Bread|26095|Breakfast|Harris Soup, Salad, & Fruit|26095|Vegan|26095| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Wheatberry Bread|26095|Breakfast|Harris Soup, Salad, & Fruit|26095|Soy|26095| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Wheatberry Bread|26095|Breakfast|Harris Soup, Salad, & Fruit|26095|nitrite|26095| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Wheatberry Bread|26095|Breakfast|Harris Soup, Salad, & Fruit|26095|Wheat|26095| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Wheatberry Bread|26095|Breakfast|Harris Soup, Salad, & Fruit|26095|Gluten|26095| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Wheatberry Bread|26095|Breakfast|Harris Soup, Salad, & Fruit|26095|Conventional|26095| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Chocolate Chip Muffin|26662|Breakfast|Harris Campus Grill|26662|Eggs|26662| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Chocolate Chip Muffin|26662|Breakfast|Harris Campus Grill|26662|Milk|26662| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Chocolate Chip Muffin|26662|Breakfast|Harris Campus Grill|26662|Wheat|26662| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Chocolate Chip Muffin|26662|Breakfast|Harris Campus Grill|26662|Soy|26662| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Chocolate Chip Muffin|26662|Breakfast|Harris Campus Grill|26662|Animal by-product|26662| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Chocolate Chip Muffin|26662|Breakfast|Harris Campus Grill|26662|nitrite|26662| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Chocolate Chip Muffin|26662|Breakfast|Harris Campus Grill|26662|Gluten|26662| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Chocolate Chip Muffin|26662|Breakfast|Harris Campus Grill|26662|sulfite|26662| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Chocolate Chip Muffin|26662|Breakfast|Harris Campus Grill|26662|Conventional|26662| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Gluten Free White Bread|26932|Dinner|Harris Soup, Salad, & Fruit|26932|Soy|26932| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Gluten Free White Bread|26932|Dinner|Harris Soup, Salad, & Fruit|26932|Animal by-product|26932| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Gluten Free White Bread|26932|Dinner|Harris Soup, Salad, & Fruit|26932|Conventional|26932| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Gluten Free White Bread|26932|Dinner|Harris Campus Grill|26932|Soy|26932| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Gluten Free White Bread|26932|Dinner|Harris Campus Grill|26932|Animal by-product|26932| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Gluten Free White Bread|26932|Dinner|Harris Campus Grill|26932|Conventional|26932| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Gluten Free White Bread|26932|Breakfast|Harris Soup, Salad, & Fruit|26932|Soy|26932| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Gluten Free White Bread|26932|Breakfast|Harris Soup, Salad, & Fruit|26932|Animal by-product|26932| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Gluten Free White Bread|26932|Breakfast|Harris Soup, Salad, & Fruit|26932|Conventional|26932| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Ketchup |26986|Dinner|Harris Campus Grill|26986|Beef|26986| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Ketchup |26986|Dinner|Harris Campus Grill|26986|Conventional|26986| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Pineapple Upside Down Cake |27022|Dinner|Harris Traditions|27022|Eggs|27022| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Pineapple Upside Down Cake |27022|Dinner|Harris Traditions|27022|Milk|27022| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Pineapple Upside Down Cake |27022|Dinner|Harris Traditions|27022|Wheat|27022| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Pineapple Upside Down Cake |27022|Dinner|Harris Traditions|27022|Soy|27022| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Pineapple Upside Down Cake |27022|Dinner|Harris Traditions|27022|Gluten|27022| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Pineapple Upside Down Cake |27022|Dinner|Harris Traditions|27022|Conventional|27022| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Pineapple Upside Down Cake |27022|Dinner|Harris Traditions|27022|Citric Acid|27022| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Yellow Mustard|27143|Dinner|Harris Campus Grill|27143|Gluten|27143| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Yellow Mustard|27143|Dinner|Harris Campus Grill|27143|Conventional|27143| |
+Sep 13 2016 12:00:00:000AM|06 - Starch|White Rice|27147|Dinner|Harris Great Tastes|27147|nitrite|27147| |
+Sep 13 2016 12:00:00:000AM|06 - Starch|White Rice|27147|Dinner|Harris Great Tastes|27147|Conventional|27147| |
+Sep 13 2016 12:00:00:000AM|06 - Starch|White Rice|27147|Dinner|Harris Spice of Life|27147|nitrite|27147| |
+Sep 13 2016 12:00:00:000AM|06 - Starch|White Rice|27147|Dinner|Harris Spice of Life|27147|Conventional|27147| |
+Sep 13 2016 12:00:00:000AM|06 - Starch|Brown Rice|27148|Dinner|Harris Great Tastes|27148|Conventional|27148| |
+Sep 13 2016 12:00:00:000AM|06 - Starch|Brown Rice|27148|Dinner|Harris Great Tastes|27148|Vegan|27148| |
+Sep 13 2016 12:00:00:000AM|06 - Starch|Brown Rice|27148|Dinner|Harris Spice of Life|27148|Conventional|27148| |
+Sep 13 2016 12:00:00:000AM|06 - Starch|Brown Rice|27148|Dinner|Harris Spice of Life|27148|Vegan|27148| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Grilled Chicken Breast|27169|Dinner|Harris Great Tastes|27169|Animal meat|27169| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Grilled Chicken Breast|27169|Dinner|Harris Great Tastes|27169|Conventional|27169| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Thin Sliced Sourdough Bread |27360|Dinner|Harris Soup, Salad, & Fruit|27360|Wheat|27360| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Thin Sliced Sourdough Bread |27360|Dinner|Harris Soup, Salad, & Fruit|27360|Soy|27360| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Thin Sliced Sourdough Bread |27360|Dinner|Harris Soup, Salad, & Fruit|27360|Animal by-product|27360| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Thin Sliced Sourdough Bread |27360|Dinner|Harris Soup, Salad, & Fruit|27360|nitrite|27360| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Thin Sliced Sourdough Bread |27360|Dinner|Harris Soup, Salad, & Fruit|27360|Gluten|27360| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Thin Sliced Sourdough Bread |27360|Dinner|Harris Soup, Salad, & Fruit|27360|Conventional|27360| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Thin Sliced Sourdough Bread |27360|Breakfast|Harris Soup, Salad, & Fruit|27360|Wheat|27360| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Thin Sliced Sourdough Bread |27360|Breakfast|Harris Soup, Salad, & Fruit|27360|Soy|27360| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Thin Sliced Sourdough Bread |27360|Breakfast|Harris Soup, Salad, & Fruit|27360|Animal by-product|27360| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Thin Sliced Sourdough Bread |27360|Breakfast|Harris Soup, Salad, & Fruit|27360|nitrite|27360| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Thin Sliced Sourdough Bread |27360|Breakfast|Harris Soup, Salad, & Fruit|27360|Gluten|27360| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Thin Sliced Sourdough Bread |27360|Breakfast|Harris Soup, Salad, & Fruit|27360|Conventional|27360| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Cranberry Raisin Topping |27748|Dinner|Harris Soup, Salad, & Fruit|27748|sulfite|27748| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Cranberry Raisin Topping |27748|Dinner|Harris Soup, Salad, & Fruit|27748|Conventional|27748| |
+Sep 13 2016 12:00:00:000AM|48 - Yogurt Bar|Cranberry Raisin Topping |27748|Breakfast|Harris Soup, Salad, & Fruit|27748|sulfite|27748| |
+Sep 13 2016 12:00:00:000AM|48 - Yogurt Bar|Cranberry Raisin Topping |27748|Breakfast|Harris Soup, Salad, & Fruit|27748|Conventional|27748| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Gluten Free Cinnamon Raisin Bagel|27776|Dinner|Harris Soup, Salad, & Fruit|27776|Animal by-product|27776| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Gluten Free Cinnamon Raisin Bagel|27776|Dinner|Harris Soup, Salad, & Fruit|27776|Soy|27776| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Gluten Free Cinnamon Raisin Bagel|27776|Dinner|Harris Soup, Salad, & Fruit|27776|Eggs|27776| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Gluten Free Cinnamon Raisin Bagel|27776|Breakfast|Harris Soup, Salad, & Fruit|27776|Animal by-product|27776| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Gluten Free Cinnamon Raisin Bagel|27776|Breakfast|Harris Soup, Salad, & Fruit|27776|Soy|27776| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Gluten Free Cinnamon Raisin Bagel|27776|Breakfast|Harris Soup, Salad, & Fruit|27776|Eggs|27776| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Light Mayonaise|39874|Dinner|Harris Campus Grill|39874|Soy|39874| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Light Mayonaise|39874|Dinner|Harris Campus Grill|39874|Eggs|39874| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Light Mayonaise|39874|Dinner|Harris Campus Grill|39874|Conventional|39874| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|BBQ Sauce|29342|Dinner|Harris Campus Grill|29342|Conventional|29342| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Jelly Ind. Strawberry Smuckers|29436|Dinner|Harris Soup, Salad, & Fruit|29436|Citric Acid|29436| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Jelly Ind. Strawberry Smuckers|29436|Dinner|Harris Soup, Salad, & Fruit|29436|Conventional|29436| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Broccoli Florets |29506|Dinner|Harris Spice of Life|29506|Vegan|29506| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Broccoli Florets |29506|Dinner|Harris Spice of Life|29506|Conventional|29506| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Broccoli Florets |29506|Dinner|Harris Soup, Salad, & Fruit|29506|Vegan|29506| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Broccoli Florets |29506|Dinner|Harris Soup, Salad, & Fruit|29506|Conventional|29506| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Cauliflower Florets|29507|Dinner|Harris Soup, Salad, & Fruit|29507|Vegan|29507| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Cauliflower Florets|29507|Dinner|Harris Soup, Salad, & Fruit|29507|Conventional|29507| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Roasted Brussels Sprouts|29652|Dinner|Harris Traditions|29652|Vegan|29652| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Roasted Brussels Sprouts|29652|Dinner|Harris Traditions|29652|Conventional|29652| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Cantaloupe Chunks|29754|Dinner|Harris Soup, Salad, & Fruit|29754|Conventional|29754| |
+Sep 13 2016 12:00:00:000AM|51 - Fruit Bar|Cantaloupe Chunks|29754|Breakfast|Harris Soup, Salad, & Fruit|29754|Conventional|29754| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Sliced Cucumbers|29797|Dinner|Harris Soup, Salad, & Fruit|29797|Vegan|29797| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Sliced Cucumbers|29797|Dinner|Harris Soup, Salad, & Fruit|29797|Conventional|29797| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Yellow Onion Slivers|29799|Dinner|Harris Spice of Life|29799|Vegan|29799| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Yellow Onion Slivers|29799|Dinner|Harris Spice of Life|29799|Conventional|29799| |
+Sep 13 2016 12:00:00:000AM|60 - Toppings|Yellow Onion Slivers|29799|Dinner|Harris Campus Grill|29799|Vegan|29799| |
+Sep 13 2016 12:00:00:000AM|60 - Toppings|Yellow Onion Slivers|29799|Dinner|Harris Campus Grill|29799|Conventional|29799| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Green Pepper Strips|29806|Dinner|Harris Spice of Life|29806|Vegan|29806| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Green Pepper Strips|29806|Dinner|Harris Spice of Life|29806|Conventional|29806| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Green Pepper Strips|29806|Dinner|Harris Soup, Salad, & Fruit|29806|Vegan|29806| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Green Pepper Strips|29806|Dinner|Harris Soup, Salad, & Fruit|29806|Conventional|29806| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Red Pepper Strips|29807|Dinner|Harris Spice of Life|29807|Vegan|29807| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Red Pepper Strips|29807|Dinner|Harris Spice of Life|29807|Conventional|29807| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Red Onion Slivers|29810|Dinner|Harris Soup, Salad, & Fruit|29810|Vegan|29810| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Red Onion Slivers|29810|Dinner|Harris Soup, Salad, & Fruit|29810|Conventional|29810| |
+Sep 13 2016 12:00:00:000AM|60 - Toppings|Sliced Tomatoes|30610|Dinner|Harris Campus Grill|30610|Vegan|30610| |
+Sep 13 2016 12:00:00:000AM|60 - Toppings|Sliced Tomatoes|30610|Dinner|Harris Campus Grill|30610|Conventional|30610| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Bok Choy|30658|Dinner|Harris Spice of Life|30658|Vegan|30658| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Bok Choy|30658|Dinner|Harris Spice of Life|30658|Conventional|30658| |
+Sep 13 2016 12:00:00:000AM|12 - Proteins|Sliced Deli Turkey|30936|Dinner|Harris Soup, Salad, & Fruit|30936|Animal meat|30936| |
+Sep 13 2016 12:00:00:000AM|12 - Proteins|Sliced Deli Turkey|30936|Dinner|Harris Soup, Salad, & Fruit|30936|Conventional|30936| |
+Sep 13 2016 12:00:00:000AM|12 - Proteins|Turkey Sausage Patty|31000|Breakfast|Harris Campus Grill|31000|Citric Acid|31000| |
+Sep 13 2016 12:00:00:000AM|12 - Proteins|Turkey Sausage Patty|31000|Breakfast|Harris Campus Grill|31000|Animal meat|31000| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Hamburger|35184|Dinner|Harris Campus Grill|35184|Animal meat|35184| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Hamburger|35184|Dinner|Harris Campus Grill|35184|Beef|35184| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Hamburger|35184|Dinner|Harris Campus Grill|35184|Animal by-product|35184| |
+Sep 13 2016 12:00:00:000AM|12 - Proteins|Hard Cooked Eggs|37089|Dinner|Harris Soup, Salad, & Fruit|37089|Eggs|37089| |
+Sep 13 2016 12:00:00:000AM|12 - Proteins|Hard Cooked Eggs|37089|Dinner|Harris Soup, Salad, & Fruit|37089|Animal by-product|37089| |
+Sep 13 2016 12:00:00:000AM|12 - Proteins|Hard Cooked Eggs|37089|Dinner|Harris Soup, Salad, & Fruit|37089|Conventional|37089| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Vegan Sausage Sub Crumble|37208|Breakfast|Harris Campus Grill|37208|Gluten|37208| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Vegan Sausage Sub Crumble|37208|Breakfast|Harris Campus Grill|37208|Wheat|37208| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Vegan Sausage Sub Crumble|37208|Breakfast|Harris Campus Grill|37208|Soy|37208| |
+Sep 13 2016 12:00:00:000AM|90 - Available Upon Request|Vegan Sausage Sub Crumble|37208|Breakfast|Harris Campus Grill|37208|Conventional|37208| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Deluxe Macaroni & Cheese |37499|Dinner|Harris Great Tastes|37499|Milk|37499| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Deluxe Macaroni & Cheese |37499|Dinner|Harris Great Tastes|37499|Wheat|37499| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Deluxe Macaroni & Cheese |37499|Dinner|Harris Great Tastes|37499|Soy|37499| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Deluxe Macaroni & Cheese |37499|Dinner|Harris Great Tastes|37499|Animal by-product|37499| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Deluxe Macaroni & Cheese |37499|Dinner|Harris Great Tastes|37499|nitrite|37499| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Deluxe Macaroni & Cheese |37499|Dinner|Harris Great Tastes|37499|Gluten|37499| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Deluxe Macaroni & Cheese |37499|Dinner|Harris Great Tastes|37499|sulfite|37499| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Deluxe Macaroni & Cheese |37499|Dinner|Harris Great Tastes|37499|Conventional|37499| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Garlic Hummus|37997|Dinner|Harris Soup, Salad, & Fruit|37997|Soy|37997| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Garlic Hummus|37997|Dinner|Harris Soup, Salad, & Fruit|37997|Conventional|37997| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Garlic Hummus|37997|Dinner|Harris Soup, Salad, & Fruit|37997|Citric Acid|37997| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Garlic Hummus|37997|Breakfast|Harris Soup, Salad, & Fruit|37997|Soy|37997| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Garlic Hummus|37997|Breakfast|Harris Soup, Salad, & Fruit|37997|Conventional|37997| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments|Garlic Hummus|37997|Breakfast|Harris Soup, Salad, & Fruit|37997|Citric Acid|37997| |
+Sep 13 2016 12:00:00:000AM|06 - Starch|Strawberries and Cream Hot Cereal|38070|Breakfast|Harris Campus Grill|38070|Milk|38070| |
+Sep 13 2016 12:00:00:000AM|06 - Starch|Strawberries and Cream Hot Cereal|38070|Breakfast|Harris Campus Grill|38070|Wheat|38070| |
+Sep 13 2016 12:00:00:000AM|06 - Starch|Strawberries and Cream Hot Cereal|38070|Breakfast|Harris Campus Grill|38070|Animal by-product|38070| |
+Sep 13 2016 12:00:00:000AM|06 - Starch|Strawberries and Cream Hot Cereal|38070|Breakfast|Harris Campus Grill|38070|nitrite|38070| |
+Sep 13 2016 12:00:00:000AM|06 - Starch|Strawberries and Cream Hot Cereal|38070|Breakfast|Harris Campus Grill|38070|Gluten|38070| |
+Sep 13 2016 12:00:00:000AM|06 - Starch|Strawberries and Cream Hot Cereal|38070|Breakfast|Harris Campus Grill|38070|Conventional|38070| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Salad Pasta California Style|38073|Dinner|Harris Soup, Salad, & Fruit|38073|Soy|38073| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Salad Pasta California Style|38073|Dinner|Harris Soup, Salad, & Fruit|38073|Citric Acid|38073| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Salad Pasta California Style|38073|Dinner|Harris Soup, Salad, & Fruit|38073|nitrite|38073| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Salad Pasta California Style|38073|Dinner|Harris Soup, Salad, & Fruit|38073|Eggs|38073| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Salad Pasta California Style|38073|Dinner|Harris Soup, Salad, & Fruit|38073|Animal by-product|38073| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Salad Pasta California Style|38073|Dinner|Harris Soup, Salad, & Fruit|38073|Wheat|38073| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Salad Pasta California Style|38073|Dinner|Harris Soup, Salad, & Fruit|38073|Gluten|38073| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Philly Cheesesteak Casserole |38054|Dinner|Harris Great Tastes|38054|Eggs|38054| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Philly Cheesesteak Casserole |38054|Dinner|Harris Great Tastes|38054|Milk|38054| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Philly Cheesesteak Casserole |38054|Dinner|Harris Great Tastes|38054|Wheat|38054| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Philly Cheesesteak Casserole |38054|Dinner|Harris Great Tastes|38054|Soy|38054| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Philly Cheesesteak Casserole |38054|Dinner|Harris Great Tastes|38054|Animal by-product|38054| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Philly Cheesesteak Casserole |38054|Dinner|Harris Great Tastes|38054|Animal meat|38054| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Philly Cheesesteak Casserole |38054|Dinner|Harris Great Tastes|38054|Beef|38054| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Philly Cheesesteak Casserole |38054|Dinner|Harris Great Tastes|38054|nitrite|38054| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Philly Cheesesteak Casserole |38054|Dinner|Harris Great Tastes|38054|Gluten|38054| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Philly Cheesesteak Casserole |38054|Dinner|Harris Great Tastes|38054|sulfite|38054| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Philly Cheesesteak Casserole |38054|Dinner|Harris Great Tastes|38054|Conventional|38054| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Chia Seeds Organic|38135|Dinner|Harris Soup, Salad, & Fruit|38135|Vegan|38135| |
+Sep 13 2016 12:00:00:000AM|01 - Appetizer|Southern California Beef Fajita Dip|39586|Dinner|Harris Campus Grill|39586|Eggs|39586| |
+Sep 13 2016 12:00:00:000AM|01 - Appetizer|Southern California Beef Fajita Dip|39586|Dinner|Harris Campus Grill|39586|Milk|39586| |
+Sep 13 2016 12:00:00:000AM|01 - Appetizer|Southern California Beef Fajita Dip|39586|Dinner|Harris Campus Grill|39586|Soy|39586| |
+Sep 13 2016 12:00:00:000AM|01 - Appetizer|Southern California Beef Fajita Dip|39586|Dinner|Harris Campus Grill|39586|Animal by-product|39586| |
+Sep 13 2016 12:00:00:000AM|01 - Appetizer|Southern California Beef Fajita Dip|39586|Dinner|Harris Campus Grill|39586|Animal meat|39586| |
+Sep 13 2016 12:00:00:000AM|01 - Appetizer|Southern California Beef Fajita Dip|39586|Dinner|Harris Campus Grill|39586|Beef|39586| |
+Sep 13 2016 12:00:00:000AM|01 - Appetizer|Southern California Beef Fajita Dip|39586|Dinner|Harris Campus Grill|39586|sulfite|39586| |
+Sep 13 2016 12:00:00:000AM|01 - Appetizer|Southern California Beef Fajita Dip|39586|Dinner|Harris Campus Grill|39586|Conventional|39586| |
+Sep 13 2016 12:00:00:000AM|12 - Proteins|Sliced Deli Ham|39776|Dinner|Harris Soup, Salad, & Fruit|39776|Pork|39776| |
+Sep 13 2016 12:00:00:000AM|12 - Proteins|Sliced Deli Ham|39776|Dinner|Harris Soup, Salad, & Fruit|39776|nitrite|39776| |
+Sep 13 2016 12:00:00:000AM|12 - Proteins|Sliced Deli Ham|39776|Dinner|Harris Soup, Salad, & Fruit|39776|Conventional|39776| |
+Sep 13 2016 12:00:00:000AM|12 - Proteins|Sliced Deli Ham|39776|Dinner|Harris Soup, Salad, & Fruit|39776|Animal meat|39776| |
+Sep 13 2016 12:00:00:000AM|12 - Proteins|Sliced Provolone Cheese|39783|Dinner|Harris Soup, Salad, & Fruit|39783|Milk|39783| |
+Sep 13 2016 12:00:00:000AM|12 - Proteins|Sliced Provolone Cheese|39783|Dinner|Harris Soup, Salad, & Fruit|39783|Conventional|39783| |
+Sep 13 2016 12:00:00:000AM|12 - Proteins|Sliced Provolone Cheese|39783|Dinner|Harris Soup, Salad, & Fruit|39783|Animal by-product|39783| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments| Indv Garden Vegetable Cream Cheese |39979|Dinner|Harris Soup, Salad, & Fruit|39979|Milk|39979| |
+Sep 13 2016 12:00:00:000AM|66 - Condiments| Indv Garden Vegetable Cream Cheese |39979|Dinner|Harris Soup, Salad, & Fruit|39979|Conventional|39979| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Vegan Pumpkin Pie|40195|Dinner|Harris Traditions|40195|sulfite|40195| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Vegan Pumpkin Pie|40195|Dinner|Harris Traditions|40195|Wheat|40195| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Vegan Pumpkin Pie|40195|Dinner|Harris Traditions|40195|Soy|40195| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Vegan Pumpkin Pie|40195|Dinner|Harris Traditions|40195|nitrite|40195| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Vegan Pumpkin Pie|40195|Dinner|Harris Traditions|40195|Gluten|40195| |
+Sep 13 2016 12:00:00:000AM|72 - Baked Goods|Vegan Pumpkin Pie|40195|Dinner|Harris Traditions|40195|Conventional|40195| |

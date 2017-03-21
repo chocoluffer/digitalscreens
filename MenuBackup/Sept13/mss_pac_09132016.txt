@@ -1,0 +1,379 @@
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Crushed  Garlic |633|Dinner|MSS Pacific Rim|633|sulfite|633| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Crushed  Garlic |633|Dinner|MSS Pacific Rim|633|Soy|633| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Crushed  Garlic |633|Dinner|MSS Pacific Rim|633|Conventional|633| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Crushed  Garlic |633|Brunch/Lunch|MSS Pacific Rim|633|sulfite|633| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Crushed  Garlic |633|Brunch/Lunch|MSS Pacific Rim|633|Soy|633| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Crushed  Garlic |633|Brunch/Lunch|MSS Pacific Rim|633|Conventional|633| |
+Sep 13 2016 12:00:00:000AM|42 - Sides|Red Delicious Apples|711|Dinner|MSS Pacific Rim|711|Vegan|711| |
+Sep 13 2016 12:00:00:000AM|42 - Sides|Red Delicious Apples|711|Dinner|MSS Pacific Rim|711|Conventional|711| |
+Sep 13 2016 12:00:00:000AM|42 - Sides|Red Delicious Apples|711|Brunch/Lunch|MSS Pacific Rim|711|Vegan|711| |
+Sep 13 2016 12:00:00:000AM|42 - Sides|Red Delicious Apples|711|Brunch/Lunch|MSS Pacific Rim|711|Conventional|711| |
+Sep 13 2016 12:00:00:000AM|42 - Sides|Orange|803|Dinner|MSS Pacific Rim|803|Vegan|803| |
+Sep 13 2016 12:00:00:000AM|42 - Sides|Orange|803|Dinner|MSS Pacific Rim|803|Conventional|803| |
+Sep 13 2016 12:00:00:000AM|42 - Sides|Orange|803|Brunch/Lunch|MSS Pacific Rim|803|Vegan|803| |
+Sep 13 2016 12:00:00:000AM|42 - Sides|Orange|803|Brunch/Lunch|MSS Pacific Rim|803|Conventional|803| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Curry Powder|1152|Dinner|MSS Pacific Rim|1152|Conventional|1152| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Curry Powder|1152|Brunch/Lunch|MSS Pacific Rim|1152|Conventional|1152| |
+Sep 13 2016 12:00:00:000AM|42 - Sides|Bananas|2163|Dinner|MSS Pacific Rim|2163|Vegan|2163| |
+Sep 13 2016 12:00:00:000AM|42 - Sides|Bananas|2163|Dinner|MSS Pacific Rim|2163|Conventional|2163| |
+Sep 13 2016 12:00:00:000AM|42 - Sides|Bananas|2163|Brunch/Lunch|MSS Pacific Rim|2163|Vegan|2163| |
+Sep 13 2016 12:00:00:000AM|42 - Sides|Bananas|2163|Brunch/Lunch|MSS Pacific Rim|2163|Conventional|2163| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Semi-sweet Chocolate Chip |2194|Dinner|MSS Pacific Rim|2194|Soy|2194| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Semi-sweet Chocolate Chip |2194|Dinner|MSS Pacific Rim|2194|Conventional|2194| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Semi-sweet Chocolate Chip |2194|Brunch/Lunch|MSS Pacific Rim|2194|Soy|2194| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Semi-sweet Chocolate Chip |2194|Brunch/Lunch|MSS Pacific Rim|2194|Conventional|2194| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Multi-Grain Dinner Roll|2197|Dinner|MSS Pacific Rim|2197|Wheat|2197| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Multi-Grain Dinner Roll|2197|Dinner|MSS Pacific Rim|2197|Soy|2197| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Multi-Grain Dinner Roll|2197|Dinner|MSS Pacific Rim|2197|nitrite|2197| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Multi-Grain Dinner Roll|2197|Dinner|MSS Pacific Rim|2197|Gluten|2197| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Multi-Grain Dinner Roll|2197|Dinner|MSS Pacific Rim|2197|sulfite|2197| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Multi-Grain Dinner Roll|2197|Dinner|MSS Pacific Rim|2197|Conventional|2197| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Multi-Grain Dinner Roll|2197|Brunch/Lunch|MSS Pacific Rim|2197|Wheat|2197| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Multi-Grain Dinner Roll|2197|Brunch/Lunch|MSS Pacific Rim|2197|Soy|2197| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Multi-Grain Dinner Roll|2197|Brunch/Lunch|MSS Pacific Rim|2197|nitrite|2197| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Multi-Grain Dinner Roll|2197|Brunch/Lunch|MSS Pacific Rim|2197|Gluten|2197| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Multi-Grain Dinner Roll|2197|Brunch/Lunch|MSS Pacific Rim|2197|sulfite|2197| |
+Sep 13 2016 12:00:00:000AM|69 - Breads & Rolls|Multi-Grain Dinner Roll|2197|Brunch/Lunch|MSS Pacific Rim|2197|Conventional|2197| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Crumbled OreoTopping|2256|Dinner|MSS Pacific Rim|2256|Peanuts|2256| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Crumbled OreoTopping|2256|Dinner|MSS Pacific Rim|2256|nitrite|2256| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Crumbled OreoTopping|2256|Dinner|MSS Pacific Rim|2256|Milk|2256| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Crumbled OreoTopping|2256|Dinner|MSS Pacific Rim|2256|Animal by-product|2256| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Crumbled OreoTopping|2256|Dinner|MSS Pacific Rim|2256|Conventional|2256| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Crumbled OreoTopping|2256|Dinner|MSS Pacific Rim|2256|Gluten|2256| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Crumbled OreoTopping|2256|Dinner|MSS Pacific Rim|2256|Soy|2256| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Crumbled OreoTopping|2256|Dinner|MSS Pacific Rim|2256|Wheat|2256| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Crumbled OreoTopping|2256|Brunch/Lunch|MSS Pacific Rim|2256|Peanuts|2256| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Crumbled OreoTopping|2256|Brunch/Lunch|MSS Pacific Rim|2256|nitrite|2256| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Crumbled OreoTopping|2256|Brunch/Lunch|MSS Pacific Rim|2256|Milk|2256| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Crumbled OreoTopping|2256|Brunch/Lunch|MSS Pacific Rim|2256|Animal by-product|2256| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Crumbled OreoTopping|2256|Brunch/Lunch|MSS Pacific Rim|2256|Conventional|2256| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Crumbled OreoTopping|2256|Brunch/Lunch|MSS Pacific Rim|2256|Gluten|2256| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Crumbled OreoTopping|2256|Brunch/Lunch|MSS Pacific Rim|2256|Soy|2256| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Crumbled OreoTopping|2256|Brunch/Lunch|MSS Pacific Rim|2256|Wheat|2256| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Whipped Topping|2442|Dinner|MSS Pacific Rim|2442|Milk|2442| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Whipped Topping|2442|Dinner|MSS Pacific Rim|2442|Animal by-product|2442| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Whipped Topping|2442|Dinner|MSS Pacific Rim|2442|Soy|2442| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Whipped Topping|2442|Dinner|MSS Pacific Rim|2442|Conventional|2442| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Whipped Topping|2442|Brunch/Lunch|MSS Pacific Rim|2442|Milk|2442| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Whipped Topping|2442|Brunch/Lunch|MSS Pacific Rim|2442|Animal by-product|2442| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Whipped Topping|2442|Brunch/Lunch|MSS Pacific Rim|2442|Soy|2442| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Whipped Topping|2442|Brunch/Lunch|MSS Pacific Rim|2442|Conventional|2442| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|GF Tamari Soy Sauce|3878|Dinner|MSS Pacific Rim|3878|Soy|3878| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|GF Tamari Soy Sauce|3878|Dinner|MSS Pacific Rim|3878|Conventional|3878| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|GF Tamari Soy Sauce|3878|Brunch/Lunch|MSS Pacific Rim|3878|Soy|3878| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|GF Tamari Soy Sauce|3878|Brunch/Lunch|MSS Pacific Rim|3878|Conventional|3878| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Sweet N Sour Sauce|3918|Dinner|MSS Pacific Rim|3918|Conventional|3918| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Sweet N Sour Sauce|3918|Brunch/Lunch|MSS Pacific Rim|3918|Conventional|3918| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Homemade M&M Cookie|3819|Dinner|MSS Pacific Rim|3819|Eggs|3819| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Homemade M&M Cookie|3819|Dinner|MSS Pacific Rim|3819|Milk|3819| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Homemade M&M Cookie|3819|Dinner|MSS Pacific Rim|3819|Tree Nuts|3819| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Homemade M&M Cookie|3819|Dinner|MSS Pacific Rim|3819|Wheat|3819| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Homemade M&M Cookie|3819|Dinner|MSS Pacific Rim|3819|Soy|3819| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Homemade M&M Cookie|3819|Dinner|MSS Pacific Rim|3819|Animal by-product|3819| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Homemade M&M Cookie|3819|Dinner|MSS Pacific Rim|3819|nitrite|3819| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Homemade M&M Cookie|3819|Dinner|MSS Pacific Rim|3819|Gluten|3819| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Homemade M&M Cookie|3819|Dinner|MSS Pacific Rim|3819|sulfite|3819| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Homemade M&M Cookie|3819|Dinner|MSS Pacific Rim|3819|Conventional|3819| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Homemade M&M Cookie|3819|Dinner|MSS Pacific Rim|3819|Citric Acid|3819| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Homemade M&M Cookie|3819|Brunch/Lunch|MSS Pacific Rim|3819|Eggs|3819| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Homemade M&M Cookie|3819|Brunch/Lunch|MSS Pacific Rim|3819|Milk|3819| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Homemade M&M Cookie|3819|Brunch/Lunch|MSS Pacific Rim|3819|Tree Nuts|3819| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Homemade M&M Cookie|3819|Brunch/Lunch|MSS Pacific Rim|3819|Wheat|3819| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Homemade M&M Cookie|3819|Brunch/Lunch|MSS Pacific Rim|3819|Soy|3819| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Homemade M&M Cookie|3819|Brunch/Lunch|MSS Pacific Rim|3819|Animal by-product|3819| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Homemade M&M Cookie|3819|Brunch/Lunch|MSS Pacific Rim|3819|nitrite|3819| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Homemade M&M Cookie|3819|Brunch/Lunch|MSS Pacific Rim|3819|Gluten|3819| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Homemade M&M Cookie|3819|Brunch/Lunch|MSS Pacific Rim|3819|sulfite|3819| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Homemade M&M Cookie|3819|Brunch/Lunch|MSS Pacific Rim|3819|Conventional|3819| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Homemade M&M Cookie|3819|Brunch/Lunch|MSS Pacific Rim|3819|Citric Acid|3819| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Mini Milk Chocolate M&M's|4534|Dinner|MSS Pacific Rim|4534|Tree Nuts|4534| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Mini Milk Chocolate M&M's|4534|Dinner|MSS Pacific Rim|4534|Gluten|4534| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Mini Milk Chocolate M&M's|4534|Dinner|MSS Pacific Rim|4534|Soy|4534| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Mini Milk Chocolate M&M's|4534|Dinner|MSS Pacific Rim|4534|Milk|4534| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Mini Milk Chocolate M&M's|4534|Dinner|MSS Pacific Rim|4534|Conventional|4534| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Mini Milk Chocolate M&M's|4534|Dinner|MSS Pacific Rim|4534|Animal by-product|4534| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Mini Milk Chocolate M&M's|4534|Brunch/Lunch|MSS Pacific Rim|4534|Tree Nuts|4534| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Mini Milk Chocolate M&M's|4534|Brunch/Lunch|MSS Pacific Rim|4534|Gluten|4534| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Mini Milk Chocolate M&M's|4534|Brunch/Lunch|MSS Pacific Rim|4534|Soy|4534| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Mini Milk Chocolate M&M's|4534|Brunch/Lunch|MSS Pacific Rim|4534|Milk|4534| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Mini Milk Chocolate M&M's|4534|Brunch/Lunch|MSS Pacific Rim|4534|Conventional|4534| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Mini Milk Chocolate M&M's|4534|Brunch/Lunch|MSS Pacific Rim|4534|Animal by-product|4534| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Vanilla Pudding  |5005|Brunch/Lunch|MSS Pacific Rim|5005|Milk|5005| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Vanilla Pudding  |5005|Brunch/Lunch|MSS Pacific Rim|5005|Animal by-product|5005| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Vanilla Pudding  |5005|Brunch/Lunch|MSS Pacific Rim|5005|Soy|5005| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Vanilla Pudding  |5005|Brunch/Lunch|MSS Pacific Rim|5005|Conventional|5005| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Chocolate Pudding |5007|Dinner|MSS Pacific Rim|5007|Milk|5007| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Chocolate Pudding |5007|Dinner|MSS Pacific Rim|5007|Soy|5007| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Chocolate Pudding |5007|Dinner|MSS Pacific Rim|5007|Animal by-product|5007| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Chocolate Pudding |5007|Dinner|MSS Pacific Rim|5007|Conventional|5007| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Graham Crumbs|4720|Dinner|MSS Pacific Rim|4720|Milk|4720| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Graham Crumbs|4720|Dinner|MSS Pacific Rim|4720|Animal by-product|4720| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Graham Crumbs|4720|Dinner|MSS Pacific Rim|4720|Soy|4720| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Graham Crumbs|4720|Dinner|MSS Pacific Rim|4720|nitrite|4720| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Graham Crumbs|4720|Dinner|MSS Pacific Rim|4720|Wheat|4720| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Graham Crumbs|4720|Dinner|MSS Pacific Rim|4720|Gluten|4720| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Graham Crumbs|4720|Dinner|MSS Pacific Rim|4720|Conventional|4720| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Graham Crumbs|4720|Brunch/Lunch|MSS Pacific Rim|4720|Milk|4720| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Graham Crumbs|4720|Brunch/Lunch|MSS Pacific Rim|4720|Animal by-product|4720| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Graham Crumbs|4720|Brunch/Lunch|MSS Pacific Rim|4720|Soy|4720| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Graham Crumbs|4720|Brunch/Lunch|MSS Pacific Rim|4720|nitrite|4720| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Graham Crumbs|4720|Brunch/Lunch|MSS Pacific Rim|4720|Wheat|4720| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Graham Crumbs|4720|Brunch/Lunch|MSS Pacific Rim|4720|Gluten|4720| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Graham Crumbs|4720|Brunch/Lunch|MSS Pacific Rim|4720|Conventional|4720| |
+Sep 13 2016 12:00:00:000AM|06 - Starch|Farfalle Pasta|6433|Brunch/Lunch|MSS Pacific Rim|6433|Vegan|6433| |
+Sep 13 2016 12:00:00:000AM|06 - Starch|Farfalle Pasta|6433|Brunch/Lunch|MSS Pacific Rim|6433|Wheat|6433| |
+Sep 13 2016 12:00:00:000AM|06 - Starch|Farfalle Pasta|6433|Brunch/Lunch|MSS Pacific Rim|6433|nitrite|6433| |
+Sep 13 2016 12:00:00:000AM|06 - Starch|Farfalle Pasta|6433|Brunch/Lunch|MSS Pacific Rim|6433|Gluten|6433| |
+Sep 13 2016 12:00:00:000AM|06 - Starch|Farfalle Pasta|6433|Brunch/Lunch|MSS Pacific Rim|6433|sulfite|6433| |
+Sep 13 2016 12:00:00:000AM|06 - Starch|Farfalle Pasta|6433|Brunch/Lunch|MSS Pacific Rim|6433|Conventional|6433| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Beef Stroganoff|6192|Brunch/Lunch|MSS Pacific Rim|6192|Milk|6192| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Beef Stroganoff|6192|Brunch/Lunch|MSS Pacific Rim|6192|Wheat|6192| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Beef Stroganoff|6192|Brunch/Lunch|MSS Pacific Rim|6192|Soy|6192| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Beef Stroganoff|6192|Brunch/Lunch|MSS Pacific Rim|6192|Animal by-product|6192| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Beef Stroganoff|6192|Brunch/Lunch|MSS Pacific Rim|6192|Animal meat|6192| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Beef Stroganoff|6192|Brunch/Lunch|MSS Pacific Rim|6192|Beef|6192| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Beef Stroganoff|6192|Brunch/Lunch|MSS Pacific Rim|6192|nitrite|6192| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Beef Stroganoff|6192|Brunch/Lunch|MSS Pacific Rim|6192|MSG|6192| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Beef Stroganoff|6192|Brunch/Lunch|MSS Pacific Rim|6192|Gluten|6192| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Beef Stroganoff|6192|Brunch/Lunch|MSS Pacific Rim|6192|sulfite|6192| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Beef Stroganoff|6192|Brunch/Lunch|MSS Pacific Rim|6192|Conventional|6192| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Beef Stroganoff|6192|Brunch/Lunch|MSS Pacific Rim|6192|Citric Acid|6192| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Turkey Cacciatore|7911|Dinner|MSS Pacific Rim|7911|Milk|7911| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Turkey Cacciatore|7911|Dinner|MSS Pacific Rim|7911|Animal by-product|7911| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Turkey Cacciatore|7911|Dinner|MSS Pacific Rim|7911|Animal meat|7911| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Turkey Cacciatore|7911|Dinner|MSS Pacific Rim|7911|Conventional|7911| |
+Sep 13 2016 12:00:00:000AM|03 - Entree                   |Turkey Cacciatore|7911|Dinner|MSS Pacific Rim|7911|Citric Acid|7911| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Tofu|8583|Dinner|MSS Pacific Rim|8583|Vegan|8583| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Tofu|8583|Dinner|MSS Pacific Rim|8583|Soy|8583| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Tofu|8583|Dinner|MSS Pacific Rim|8583|sulfite|8583| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Tofu|8583|Dinner|MSS Pacific Rim|8583|Conventional|8583| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Tofu|8583|Brunch/Lunch|MSS Pacific Rim|8583|Vegan|8583| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Tofu|8583|Brunch/Lunch|MSS Pacific Rim|8583|Soy|8583| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Tofu|8583|Brunch/Lunch|MSS Pacific Rim|8583|sulfite|8583| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Tofu|8583|Brunch/Lunch|MSS Pacific Rim|8583|Conventional|8583| |
+Sep 13 2016 12:00:00:000AM|42 - Sides|Vegetable Egg Roll|9281|Dinner|MSS Pacific Rim|9281|Eggs|9281| |
+Sep 13 2016 12:00:00:000AM|42 - Sides|Vegetable Egg Roll|9281|Dinner|MSS Pacific Rim|9281|Wheat|9281| |
+Sep 13 2016 12:00:00:000AM|42 - Sides|Vegetable Egg Roll|9281|Dinner|MSS Pacific Rim|9281|Soy|9281| |
+Sep 13 2016 12:00:00:000AM|42 - Sides|Vegetable Egg Roll|9281|Dinner|MSS Pacific Rim|9281|Animal by-product|9281| |
+Sep 13 2016 12:00:00:000AM|42 - Sides|Vegetable Egg Roll|9281|Dinner|MSS Pacific Rim|9281|Gluten|9281| |
+Sep 13 2016 12:00:00:000AM|42 - Sides|Vegetable Egg Roll|9281|Dinner|MSS Pacific Rim|9281|Conventional|9281| |
+Sep 13 2016 12:00:00:000AM|42 - Sides|Vegetable Egg Roll|9281|Brunch/Lunch|MSS Pacific Rim|9281|Eggs|9281| |
+Sep 13 2016 12:00:00:000AM|42 - Sides|Vegetable Egg Roll|9281|Brunch/Lunch|MSS Pacific Rim|9281|Wheat|9281| |
+Sep 13 2016 12:00:00:000AM|42 - Sides|Vegetable Egg Roll|9281|Brunch/Lunch|MSS Pacific Rim|9281|Soy|9281| |
+Sep 13 2016 12:00:00:000AM|42 - Sides|Vegetable Egg Roll|9281|Brunch/Lunch|MSS Pacific Rim|9281|Animal by-product|9281| |
+Sep 13 2016 12:00:00:000AM|42 - Sides|Vegetable Egg Roll|9281|Brunch/Lunch|MSS Pacific Rim|9281|Gluten|9281| |
+Sep 13 2016 12:00:00:000AM|42 - Sides|Vegetable Egg Roll|9281|Brunch/Lunch|MSS Pacific Rim|9281|Conventional|9281| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Chili Garlic Sauce|9890|Dinner|MSS Pacific Rim|9890|Vegan|9890| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Chili Garlic Sauce|9890|Dinner|MSS Pacific Rim|9890|Conventional|9890| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Chili Garlic Sauce|9890|Dinner|MSS Pacific Rim|9890|sulfite|9890| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Chili Garlic Sauce|9890|Brunch/Lunch|MSS Pacific Rim|9890|Vegan|9890| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Chili Garlic Sauce|9890|Brunch/Lunch|MSS Pacific Rim|9890|Conventional|9890| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Chili Garlic Sauce|9890|Brunch/Lunch|MSS Pacific Rim|9890|sulfite|9890| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Precooked Beef Strips|14579|Dinner|MSS Pacific Rim|14579|sulfite|14579| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Precooked Beef Strips|14579|Dinner|MSS Pacific Rim|14579|Wheat|14579| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Precooked Beef Strips|14579|Dinner|MSS Pacific Rim|14579|Gluten|14579| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Precooked Beef Strips|14579|Dinner|MSS Pacific Rim|14579|Soy|14579| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Precooked Beef Strips|14579|Dinner|MSS Pacific Rim|14579|Beef|14579| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Precooked Beef Strips|14579|Dinner|MSS Pacific Rim|14579|Animal meat|14579| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Precooked Beef Strips|14579|Dinner|MSS Pacific Rim|14579|Conventional|14579| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Precooked Beef Strips|14579|Brunch/Lunch|MSS Pacific Rim|14579|sulfite|14579| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Precooked Beef Strips|14579|Brunch/Lunch|MSS Pacific Rim|14579|Wheat|14579| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Precooked Beef Strips|14579|Brunch/Lunch|MSS Pacific Rim|14579|Gluten|14579| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Precooked Beef Strips|14579|Brunch/Lunch|MSS Pacific Rim|14579|Soy|14579| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Precooked Beef Strips|14579|Brunch/Lunch|MSS Pacific Rim|14579|Beef|14579| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Precooked Beef Strips|14579|Brunch/Lunch|MSS Pacific Rim|14579|Animal meat|14579| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Precooked Beef Strips|14579|Brunch/Lunch|MSS Pacific Rim|14579|Conventional|14579| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Red Chili Siracha Sauce|18138|Dinner|MSS Pacific Rim|18138|Conventional|18138| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Red Chili Siracha Sauce|18138|Dinner|MSS Pacific Rim|18138|sulfite|18138| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Red Chili Siracha Sauce|18138|Brunch/Lunch|MSS Pacific Rim|18138|Conventional|18138| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Red Chili Siracha Sauce|18138|Brunch/Lunch|MSS Pacific Rim|18138|sulfite|18138| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Sauce Chili Sweet|19406|Dinner|MSS Pacific Rim|19406|Conventional|19406| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Sauce Chili Sweet|19406|Brunch/Lunch|MSS Pacific Rim|19406|Conventional|19406| |
+Sep 13 2016 12:00:00:000AM|42 - Sides|Gala Apples|19891|Dinner|MSS Pacific Rim|19891|Vegan|19891| |
+Sep 13 2016 12:00:00:000AM|42 - Sides|Gala Apples|19891|Dinner|MSS Pacific Rim|19891|Conventional|19891| |
+Sep 13 2016 12:00:00:000AM|42 - Sides|Gala Apples|19891|Brunch/Lunch|MSS Pacific Rim|19891|Vegan|19891| |
+Sep 13 2016 12:00:00:000AM|42 - Sides|Gala Apples|19891|Brunch/Lunch|MSS Pacific Rim|19891|Conventional|19891| |
+Sep 13 2016 12:00:00:000AM|42 - Sides|Vegetable Spring Roll|20787|Dinner|MSS Pacific Rim|20787|Wheat|20787| |
+Sep 13 2016 12:00:00:000AM|42 - Sides|Vegetable Spring Roll|20787|Dinner|MSS Pacific Rim|20787|Soy|20787| |
+Sep 13 2016 12:00:00:000AM|42 - Sides|Vegetable Spring Roll|20787|Dinner|MSS Pacific Rim|20787|Animal by-product|20787| |
+Sep 13 2016 12:00:00:000AM|42 - Sides|Vegetable Spring Roll|20787|Dinner|MSS Pacific Rim|20787|nitrite|20787| |
+Sep 13 2016 12:00:00:000AM|42 - Sides|Vegetable Spring Roll|20787|Dinner|MSS Pacific Rim|20787|Gluten|20787| |
+Sep 13 2016 12:00:00:000AM|42 - Sides|Vegetable Spring Roll|20787|Dinner|MSS Pacific Rim|20787|Conventional|20787| |
+Sep 13 2016 12:00:00:000AM|06 - Starch|Quinoa & Mushroom Pilaf|20693|Dinner|MSS Pacific Rim|20693|Vegan|20693| |
+Sep 13 2016 12:00:00:000AM|06 - Starch|Quinoa & Mushroom Pilaf|20693|Dinner|MSS Pacific Rim|20693|Soy|20693| |
+Sep 13 2016 12:00:00:000AM|06 - Starch|Quinoa & Mushroom Pilaf|20693|Dinner|MSS Pacific Rim|20693|Conventional|20693| |
+Sep 13 2016 12:00:00:000AM|06 - Starch|Quinoa & Mushroom Pilaf|20693|Dinner|MSS Pacific Rim|20693|Citric Acid|20693| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Grilled Chicken Strip|21641|Dinner|MSS Pacific Rim|21641|Citric Acid|21641| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Grilled Chicken Strip|21641|Dinner|MSS Pacific Rim|21641|Conventional|21641| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Grilled Chicken Strip|21641|Dinner|MSS Pacific Rim|21641|Animal meat|21641| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Grilled Chicken Strip|21641|Brunch/Lunch|MSS Pacific Rim|21641|Citric Acid|21641| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Grilled Chicken Strip|21641|Brunch/Lunch|MSS Pacific Rim|21641|Conventional|21641| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Grilled Chicken Strip|21641|Brunch/Lunch|MSS Pacific Rim|21641|Animal meat|21641| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Minced Ginger|22965|Dinner|MSS Pacific Rim|22965|Citric Acid|22965| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Minced Ginger|22965|Brunch/Lunch|MSS Pacific Rim|22965|Citric Acid|22965| |
+Sep 13 2016 12:00:00:000AM|42 - Sides|Seafood Rangoons--3 pieces|24189|Brunch/Lunch|MSS Pacific Rim|24189|Eggs|24189| |
+Sep 13 2016 12:00:00:000AM|42 - Sides|Seafood Rangoons--3 pieces|24189|Brunch/Lunch|MSS Pacific Rim|24189|Milk|24189| |
+Sep 13 2016 12:00:00:000AM|42 - Sides|Seafood Rangoons--3 pieces|24189|Brunch/Lunch|MSS Pacific Rim|24189|Wheat|24189| |
+Sep 13 2016 12:00:00:000AM|42 - Sides|Seafood Rangoons--3 pieces|24189|Brunch/Lunch|MSS Pacific Rim|24189|Soy|24189| |
+Sep 13 2016 12:00:00:000AM|42 - Sides|Seafood Rangoons--3 pieces|24189|Brunch/Lunch|MSS Pacific Rim|24189|Fish|24189| |
+Sep 13 2016 12:00:00:000AM|42 - Sides|Seafood Rangoons--3 pieces|24189|Brunch/Lunch|MSS Pacific Rim|24189|Animal by-product|24189| |
+Sep 13 2016 12:00:00:000AM|42 - Sides|Seafood Rangoons--3 pieces|24189|Brunch/Lunch|MSS Pacific Rim|24189|Animal meat|24189| |
+Sep 13 2016 12:00:00:000AM|42 - Sides|Seafood Rangoons--3 pieces|24189|Brunch/Lunch|MSS Pacific Rim|24189|nitrite|24189| |
+Sep 13 2016 12:00:00:000AM|42 - Sides|Seafood Rangoons--3 pieces|24189|Brunch/Lunch|MSS Pacific Rim|24189|Gluten|24189| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Vegetable Blend Mediterranean|24605|Brunch/Lunch|MSS Pacific Rim|24605|Conventional|24605| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Vegetable Blend Mediterranean|24605|Brunch/Lunch|MSS Pacific Rim|24605|Citric Acid|24605| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Whole Wheat Spice Bar/Maple Cream Icing|25833|Dinner|MSS Pacific Rim|25833|Eggs|25833| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Whole Wheat Spice Bar/Maple Cream Icing|25833|Dinner|MSS Pacific Rim|25833|Milk|25833| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Whole Wheat Spice Bar/Maple Cream Icing|25833|Dinner|MSS Pacific Rim|25833|Wheat|25833| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Whole Wheat Spice Bar/Maple Cream Icing|25833|Dinner|MSS Pacific Rim|25833|Soy|25833| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Whole Wheat Spice Bar/Maple Cream Icing|25833|Dinner|MSS Pacific Rim|25833|Animal by-product|25833| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Whole Wheat Spice Bar/Maple Cream Icing|25833|Dinner|MSS Pacific Rim|25833|nitrite|25833| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Whole Wheat Spice Bar/Maple Cream Icing|25833|Dinner|MSS Pacific Rim|25833|Gluten|25833| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Whole Wheat Spice Bar/Maple Cream Icing|25833|Dinner|MSS Pacific Rim|25833|sulfite|25833| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Whole Wheat Spice Bar/Maple Cream Icing|25833|Dinner|MSS Pacific Rim|25833|Conventional|25833| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Whole Wheat Spice Bar/Maple Cream Icing|25833|Dinner|MSS Pacific Rim|25833|Citric Acid|25833| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Whole Wheat Spice Bar/Maple Cream Icing|25833|Brunch/Lunch|MSS Pacific Rim|25833|Eggs|25833| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Whole Wheat Spice Bar/Maple Cream Icing|25833|Brunch/Lunch|MSS Pacific Rim|25833|Milk|25833| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Whole Wheat Spice Bar/Maple Cream Icing|25833|Brunch/Lunch|MSS Pacific Rim|25833|Wheat|25833| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Whole Wheat Spice Bar/Maple Cream Icing|25833|Brunch/Lunch|MSS Pacific Rim|25833|Soy|25833| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Whole Wheat Spice Bar/Maple Cream Icing|25833|Brunch/Lunch|MSS Pacific Rim|25833|Animal by-product|25833| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Whole Wheat Spice Bar/Maple Cream Icing|25833|Brunch/Lunch|MSS Pacific Rim|25833|nitrite|25833| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Whole Wheat Spice Bar/Maple Cream Icing|25833|Brunch/Lunch|MSS Pacific Rim|25833|Gluten|25833| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Whole Wheat Spice Bar/Maple Cream Icing|25833|Brunch/Lunch|MSS Pacific Rim|25833|sulfite|25833| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Whole Wheat Spice Bar/Maple Cream Icing|25833|Brunch/Lunch|MSS Pacific Rim|25833|Conventional|25833| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Whole Wheat Spice Bar/Maple Cream Icing|25833|Brunch/Lunch|MSS Pacific Rim|25833|Citric Acid|25833| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Vegan Banana Walnut Muffin|25938|Dinner|MSS Pacific Rim|25938|Tree Nuts|25938| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Vegan Banana Walnut Muffin|25938|Dinner|MSS Pacific Rim|25938|Wheat|25938| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Vegan Banana Walnut Muffin|25938|Dinner|MSS Pacific Rim|25938|Soy|25938| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Vegan Banana Walnut Muffin|25938|Dinner|MSS Pacific Rim|25938|nitrite|25938| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Vegan Banana Walnut Muffin|25938|Dinner|MSS Pacific Rim|25938|Gluten|25938| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Vegan Banana Walnut Muffin|25938|Dinner|MSS Pacific Rim|25938|Conventional|25938| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Vegan Banana Walnut Muffin|25938|Dinner|MSS Pacific Rim|25938|Citric Acid|25938| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Vegan Banana Walnut Muffin|25938|Dinner|MSS Pacific Rim|25938|Vegan|25938| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Vegan Banana Walnut Muffin|25938|Brunch/Lunch|MSS Pacific Rim|25938|Tree Nuts|25938| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Vegan Banana Walnut Muffin|25938|Brunch/Lunch|MSS Pacific Rim|25938|Wheat|25938| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Vegan Banana Walnut Muffin|25938|Brunch/Lunch|MSS Pacific Rim|25938|Soy|25938| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Vegan Banana Walnut Muffin|25938|Brunch/Lunch|MSS Pacific Rim|25938|nitrite|25938| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Vegan Banana Walnut Muffin|25938|Brunch/Lunch|MSS Pacific Rim|25938|Gluten|25938| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Vegan Banana Walnut Muffin|25938|Brunch/Lunch|MSS Pacific Rim|25938|Conventional|25938| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Vegan Banana Walnut Muffin|25938|Brunch/Lunch|MSS Pacific Rim|25938|Citric Acid|25938| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Vegan Banana Walnut Muffin|25938|Brunch/Lunch|MSS Pacific Rim|25938|Vegan|25938| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Pineapple Upside Down Cake |27022|Dinner|MSS Pacific Rim|27022|Eggs|27022| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Pineapple Upside Down Cake |27022|Dinner|MSS Pacific Rim|27022|Milk|27022| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Pineapple Upside Down Cake |27022|Dinner|MSS Pacific Rim|27022|Wheat|27022| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Pineapple Upside Down Cake |27022|Dinner|MSS Pacific Rim|27022|Soy|27022| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Pineapple Upside Down Cake |27022|Dinner|MSS Pacific Rim|27022|Gluten|27022| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Pineapple Upside Down Cake |27022|Dinner|MSS Pacific Rim|27022|Conventional|27022| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Pineapple Upside Down Cake |27022|Dinner|MSS Pacific Rim|27022|Citric Acid|27022| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Pineapple Upside Down Cake |27022|Brunch/Lunch|MSS Pacific Rim|27022|Eggs|27022| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Pineapple Upside Down Cake |27022|Brunch/Lunch|MSS Pacific Rim|27022|Milk|27022| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Pineapple Upside Down Cake |27022|Brunch/Lunch|MSS Pacific Rim|27022|Wheat|27022| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Pineapple Upside Down Cake |27022|Brunch/Lunch|MSS Pacific Rim|27022|Soy|27022| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Pineapple Upside Down Cake |27022|Brunch/Lunch|MSS Pacific Rim|27022|Gluten|27022| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Pineapple Upside Down Cake |27022|Brunch/Lunch|MSS Pacific Rim|27022|Conventional|27022| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Pineapple Upside Down Cake |27022|Brunch/Lunch|MSS Pacific Rim|27022|Citric Acid|27022| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|White Rice|27147|Dinner|MSS Pacific Rim|27147|nitrite|27147| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|White Rice|27147|Dinner|MSS Pacific Rim|27147|Conventional|27147| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|White Rice|27147|Brunch/Lunch|MSS Pacific Rim|27147|nitrite|27147| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|White Rice|27147|Brunch/Lunch|MSS Pacific Rim|27147|Conventional|27147| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Brown Rice|27148|Dinner|MSS Pacific Rim|27148|Conventional|27148| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Brown Rice|27148|Dinner|MSS Pacific Rim|27148|Vegan|27148| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Brown Rice|27148|Brunch/Lunch|MSS Pacific Rim|27148|Conventional|27148| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Brown Rice|27148|Brunch/Lunch|MSS Pacific Rim|27148|Vegan|27148| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Sweet and Sour Chicken|28185|Dinner|MSS Pacific Rim|28185|Wheat|28185| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Sweet and Sour Chicken|28185|Dinner|MSS Pacific Rim|28185|Animal by-product|28185| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Sweet and Sour Chicken|28185|Dinner|MSS Pacific Rim|28185|Animal meat|28185| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Sweet and Sour Chicken|28185|Dinner|MSS Pacific Rim|28185|Conventional|28185| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Sweet and Sour Chicken|28185|Dinner|MSS Pacific Rim|28185|Citric Acid|28185| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Sweet and Sour Chicken|28185|Brunch/Lunch|MSS Pacific Rim|28185|Wheat|28185| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Sweet and Sour Chicken|28185|Brunch/Lunch|MSS Pacific Rim|28185|Animal by-product|28185| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Sweet and Sour Chicken|28185|Brunch/Lunch|MSS Pacific Rim|28185|Animal meat|28185| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Sweet and Sour Chicken|28185|Brunch/Lunch|MSS Pacific Rim|28185|Conventional|28185| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Sweet and Sour Chicken|28185|Brunch/Lunch|MSS Pacific Rim|28185|Citric Acid|28185| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Fried Rice|28485|Dinner|MSS Pacific Rim|28485|Eggs|28485| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Fried Rice|28485|Dinner|MSS Pacific Rim|28485|Wheat|28485| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Fried Rice|28485|Dinner|MSS Pacific Rim|28485|Soy|28485| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Fried Rice|28485|Dinner|MSS Pacific Rim|28485|Animal by-product|28485| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Fried Rice|28485|Dinner|MSS Pacific Rim|28485|nitrite|28485| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Fried Rice|28485|Dinner|MSS Pacific Rim|28485|Gluten|28485| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Fried Rice|28485|Dinner|MSS Pacific Rim|28485|sulfite|28485| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Fried Rice|28485|Dinner|MSS Pacific Rim|28485|Conventional|28485| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Fried Rice|28485|Dinner|MSS Pacific Rim|28485|Citric Acid|28485| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Fried Rice|28485|Brunch/Lunch|MSS Pacific Rim|28485|Eggs|28485| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Fried Rice|28485|Brunch/Lunch|MSS Pacific Rim|28485|Wheat|28485| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Fried Rice|28485|Brunch/Lunch|MSS Pacific Rim|28485|Soy|28485| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Fried Rice|28485|Brunch/Lunch|MSS Pacific Rim|28485|Animal by-product|28485| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Fried Rice|28485|Brunch/Lunch|MSS Pacific Rim|28485|nitrite|28485| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Fried Rice|28485|Brunch/Lunch|MSS Pacific Rim|28485|Gluten|28485| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Fried Rice|28485|Brunch/Lunch|MSS Pacific Rim|28485|sulfite|28485| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Fried Rice|28485|Brunch/Lunch|MSS Pacific Rim|28485|Conventional|28485| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Fried Rice|28485|Brunch/Lunch|MSS Pacific Rim|28485|Citric Acid|28485| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Tossed Salad Greens|28372|Dinner|MSS Pacific Rim|28372|Conventional|28372| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Tossed Salad Greens|28372|Brunch/Lunch|MSS Pacific Rim|28372|Conventional|28372| |
+Sep 13 2016 12:00:00:000AM|09 - Vegetable|Steamed Broccoli|39871|Dinner|MSS Pacific Rim|39871|Conventional|39871| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Pinto Bean Salsa Salad|29644|Dinner|MSS Pacific Rim|29644|Soy|29644| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Pinto Bean Salsa Salad|29644|Dinner|MSS Pacific Rim|29644|sulfite|29644| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Pinto Bean Salsa Salad|29644|Dinner|MSS Pacific Rim|29644|Conventional|29644| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Pinto Bean Salsa Salad|29644|Brunch/Lunch|MSS Pacific Rim|29644|Soy|29644| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Pinto Bean Salsa Salad|29644|Brunch/Lunch|MSS Pacific Rim|29644|sulfite|29644| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Pinto Bean Salsa Salad|29644|Brunch/Lunch|MSS Pacific Rim|29644|Conventional|29644| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Potassium Power Vegetable Blend|29995|Dinner|MSS Pacific Rim|29995|Vegan|29995| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Potassium Power Vegetable Blend|29995|Dinner|MSS Pacific Rim|29995|Conventional|29995| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Potassium Power Vegetable Blend|29995|Dinner|MSS Pacific Rim|29995|Citric Acid|29995| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Potassium Power Vegetable Blend|29995|Brunch/Lunch|MSS Pacific Rim|29995|Vegan|29995| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Potassium Power Vegetable Blend|29995|Brunch/Lunch|MSS Pacific Rim|29995|Conventional|29995| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Potassium Power Vegetable Blend|29995|Brunch/Lunch|MSS Pacific Rim|29995|Citric Acid|29995| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Immunity Vegetable Blend|29996|Dinner|MSS Pacific Rim|29996|Vegan|29996| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Immunity Vegetable Blend|29996|Dinner|MSS Pacific Rim|29996|Soy|29996| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Immunity Vegetable Blend|29996|Dinner|MSS Pacific Rim|29996|Conventional|29996| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Immunity Vegetable Blend|29996|Dinner|MSS Pacific Rim|29996|Citric Acid|29996| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Immunity Vegetable Blend|29996|Brunch/Lunch|MSS Pacific Rim|29996|Vegan|29996| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Immunity Vegetable Blend|29996|Brunch/Lunch|MSS Pacific Rim|29996|Soy|29996| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Immunity Vegetable Blend|29996|Brunch/Lunch|MSS Pacific Rim|29996|Conventional|29996| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Immunity Vegetable Blend|29996|Brunch/Lunch|MSS Pacific Rim|29996|Citric Acid|29996| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Energy Booster Vegetable Blend|29997|Dinner|MSS Pacific Rim|29997|Vegan|29997| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Energy Booster Vegetable Blend|29997|Dinner|MSS Pacific Rim|29997|Soy|29997| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Energy Booster Vegetable Blend|29997|Dinner|MSS Pacific Rim|29997|Conventional|29997| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Energy Booster Vegetable Blend|29997|Dinner|MSS Pacific Rim|29997|Citric Acid|29997| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Energy Booster Vegetable Blend|29997|Brunch/Lunch|MSS Pacific Rim|29997|Vegan|29997| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Energy Booster Vegetable Blend|29997|Brunch/Lunch|MSS Pacific Rim|29997|Soy|29997| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Energy Booster Vegetable Blend|29997|Brunch/Lunch|MSS Pacific Rim|29997|Conventional|29997| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Energy Booster Vegetable Blend|29997|Brunch/Lunch|MSS Pacific Rim|29997|Citric Acid|29997| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Broth GF Vegetable from Liquid Base|35248|Dinner|MSS Pacific Rim|35248|MSG|35248| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Broth GF Vegetable from Liquid Base|35248|Dinner|MSS Pacific Rim|35248|Conventional|35248| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Broth GF Vegetable from Liquid Base|35248|Brunch/Lunch|MSS Pacific Rim|35248|MSG|35248| |
+Sep 13 2016 12:00:00:000AM|30 - Stir Fry Bar|Broth GF Vegetable from Liquid Base|35248|Brunch/Lunch|MSS Pacific Rim|35248|Conventional|35248| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Fruit Salad|37971|Dinner|MSS Pacific Rim|37971|Conventional|37971| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Fruit Salad|37971|Dinner|MSS Pacific Rim|37971|Citric Acid|37971| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Fruit Salad|37971|Brunch/Lunch|MSS Pacific Rim|37971|Conventional|37971| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Fruit Salad|37971|Brunch/Lunch|MSS Pacific Rim|37971|Citric Acid|37971| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Pistachio Delight|38013|Dinner|MSS Pacific Rim|38013|Soy|38013| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Pistachio Delight|38013|Dinner|MSS Pacific Rim|38013|Conventional|38013| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Pistachio Delight|38013|Brunch/Lunch|MSS Pacific Rim|38013|Soy|38013| |
+Sep 13 2016 12:00:00:000AM|75 - Dessert|Pistachio Delight|38013|Brunch/Lunch|MSS Pacific Rim|38013|Conventional|38013| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Caesar Salad with Dressing Choice|39790|Dinner|MSS Pacific Rim|39790|Milk|39790| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Caesar Salad with Dressing Choice|39790|Dinner|MSS Pacific Rim|39790|Wheat|39790| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Caesar Salad with Dressing Choice|39790|Dinner|MSS Pacific Rim|39790|Soy|39790| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Caesar Salad with Dressing Choice|39790|Dinner|MSS Pacific Rim|39790|Animal by-product|39790| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Caesar Salad with Dressing Choice|39790|Dinner|MSS Pacific Rim|39790|nitrite|39790| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Caesar Salad with Dressing Choice|39790|Dinner|MSS Pacific Rim|39790|Gluten|39790| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Caesar Salad with Dressing Choice|39790|Dinner|MSS Pacific Rim|39790|sulfite|39790| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Caesar Salad with Dressing Choice|39790|Dinner|MSS Pacific Rim|39790|Conventional|39790| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Caesar Salad with Dressing Choice|39790|Brunch/Lunch|MSS Pacific Rim|39790|Milk|39790| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Caesar Salad with Dressing Choice|39790|Brunch/Lunch|MSS Pacific Rim|39790|Wheat|39790| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Caesar Salad with Dressing Choice|39790|Brunch/Lunch|MSS Pacific Rim|39790|Soy|39790| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Caesar Salad with Dressing Choice|39790|Brunch/Lunch|MSS Pacific Rim|39790|Animal by-product|39790| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Caesar Salad with Dressing Choice|39790|Brunch/Lunch|MSS Pacific Rim|39790|nitrite|39790| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Caesar Salad with Dressing Choice|39790|Brunch/Lunch|MSS Pacific Rim|39790|Gluten|39790| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Caesar Salad with Dressing Choice|39790|Brunch/Lunch|MSS Pacific Rim|39790|sulfite|39790| |
+Sep 13 2016 12:00:00:000AM|45 - Salad Bar                |Caesar Salad with Dressing Choice|39790|Brunch/Lunch|MSS Pacific Rim|39790|Conventional|39790| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Cholay - Indian Spiced Chickpea Curry|40010|Dinner|MSS Pacific Rim|40010|Vegan|40010| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Cholay - Indian Spiced Chickpea Curry|40010|Dinner|MSS Pacific Rim|40010|Soy|40010| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Cholay - Indian Spiced Chickpea Curry|40010|Dinner|MSS Pacific Rim|40010|sulfite|40010| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Cholay - Indian Spiced Chickpea Curry|40010|Dinner|MSS Pacific Rim|40010|Conventional|40010| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Cholay - Indian Spiced Chickpea Curry|40010|Dinner|MSS Pacific Rim|40010|Citric Acid|40010| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Cholay - Indian Spiced Chickpea Curry|40010|Brunch/Lunch|MSS Pacific Rim|40010|Vegan|40010| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Cholay - Indian Spiced Chickpea Curry|40010|Brunch/Lunch|MSS Pacific Rim|40010|Soy|40010| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Cholay - Indian Spiced Chickpea Curry|40010|Brunch/Lunch|MSS Pacific Rim|40010|sulfite|40010| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Cholay - Indian Spiced Chickpea Curry|40010|Brunch/Lunch|MSS Pacific Rim|40010|Conventional|40010| |
+Sep 13 2016 12:00:00:000AM|32-  International Bar|Cholay - Indian Spiced Chickpea Curry|40010|Brunch/Lunch|MSS Pacific Rim|40010|Citric Acid|40010| |
